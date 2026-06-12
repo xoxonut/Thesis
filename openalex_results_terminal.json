@@ -1,0 +1,501 @@
+{
+  "meta": {
+    "count": 13,
+    "db_response_time_ms": 3834,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4407293869",
+      "display_name": "Cognitive Radio Networks: Technologies, Challenges and Applications",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.3390/s25041011",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/s25041011",
+        "pdf_url": "https://www.mdpi.com/1424-8220/25/4/1011/pdf?version=1739006413",
+        "source": {
+          "id": "https://openalex.org/S101949793",
+          "display_name": "Sensors",
+          "issn_l": "1424-8220",
+          "issn": [
+            "1424-8220"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sensors",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 11,
+      "doi": "https://doi.org/10.3390/s25041011"
+    },
+    {
+      "id": "https://openalex.org/W4411725244",
+      "display_name": "Leveraging 3GPP Features and Optimization Techniques for 5G NR-V2X Resource Allocation: A Survey",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/ojits.2025.3584024",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1109/ojits.2025.3584024",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210239405",
+          "display_name": "IEEE Open Journal of Intelligent Transportation Systems",
+          "issn_l": "2687-7813",
+          "issn": [
+            "2687-7813"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Open Journal of Intelligent Transportation Systems",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 3,
+      "doi": "https://doi.org/10.1109/ojits.2025.3584024"
+    },
+    {
+      "id": "https://openalex.org/W4411688153",
+      "display_name": "Cell-Free Full-Duplex Communication—An Overview",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/tcomm.2025.3583637",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tcomm.2025.3583637",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S196647941",
+          "display_name": "IEEE Transactions on Communications",
+          "issn_l": "0090-6778",
+          "issn": [
+            "0090-6778",
+            "1558-0857"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316002",
+          "host_organization_name": "IEEE Communications Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316002",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Communications Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.1109/tcomm.2025.3583637"
+    },
+    {
+      "id": "https://openalex.org/W7121197507",
+      "display_name": "Interference Challenges and Mitigation Strategies for LoRa in Dense IoT Networks: A Review",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.25103/jestr.186.20",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.25103/jestr.186.20",
+        "pdf_url": "https://doi.org/10.25103/jestr.186.20",
+        "source": {
+          "id": "https://openalex.org/S2736934119",
+          "display_name": "Journal of Engineering Science and Technology Review",
+          "issn_l": "1791-2377",
+          "issn": [
+            "1791-2377",
+            "1791-9320"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318052",
+          "host_organization_name": "Eastern Macedonia and Thrace Institute of Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318052"
+          ],
+          "host_organization_lineage_names": [
+            "Eastern Macedonia and Thrace Institute of Technology"
+          ],
+          "type": "journal"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Engineering Science and Technology Review",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.25103/jestr.186.20"
+    },
+    {
+      "id": "https://openalex.org/W7125612920",
+      "display_name": "Deep Reinforcement Learning Reconfigurable Smart Surface Sensing MAC Protocol for Terahertz Mesh Networks",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.1049/ntw2.70025",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1049/ntw2.70025",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1049/ntw2.70025",
+        "source": {
+          "id": "https://openalex.org/S4306418855",
+          "display_name": "IET Networks",
+          "issn_l": "2047-4954",
+          "issn": [
+            "2047-4954",
+            "2047-4962"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IET Networks",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1049/ntw2.70025"
+    },
+    {
+      "id": "https://openalex.org/W4413265698",
+      "display_name": "Real-Time Interference Management in Next-Generation Wireless Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.58346/jowua.2025.i2.020",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.58346/jowua.2025.i2.020",
+        "pdf_url": "https://doi.org/10.58346/jowua.2025.i2.020",
+        "source": {
+          "id": "https://openalex.org/S2738080829",
+          "display_name": "Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable Applications",
+          "issn_l": "2093-5374",
+          "issn": [
+            "2093-5374",
+            "2093-5382"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.58346/jowua.2025.i2.020"
+    },
+    {
+      "id": "https://openalex.org/W4412456834",
+      "display_name": "Adaptive Multi-Connectivity Communication for Enhanced Reliability in B5G Vehicular Networks",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.24138/jcomss-2025-0081",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.24138/jcomss-2025-0081",
+        "pdf_url": "https://jcoms.fesb.unist.hr/pdfs/v21n3_2025-0081_Reja.pdf",
+        "source": {
+          "id": "https://openalex.org/S2765074215",
+          "display_name": "Journal of Communications Software and Systems",
+          "issn_l": "1845-6421",
+          "issn": [
+            "1845-6421",
+            "1846-6079"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310314834",
+          "host_organization_name": "Croatian Communications and Information Society (CCIS)",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310314834"
+          ],
+          "host_organization_lineage_names": [
+            "Croatian Communications and Information Society (CCIS)"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Communications Software and Systems",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.24138/jcomss-2025-0081"
+    },
+    {
+      "id": "https://openalex.org/W7148177928",
+      "display_name": "Intelligent Forensics in Next-Generation Mobile Networks: Evidence, Methods, and Applications",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2603.29364",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2603.29364",
+        "pdf_url": "https://arxiv.org/pdf/2603.29364",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W4416045456",
+      "display_name": "Enhanced spectrum sensing in MIMO-OFDM cognitive radio networks using multi-user detection and square-law combining techniques",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.11591/ijece.v15i6.pp5401-5410",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.11591/ijece.v15i6.pp5401-5410",
+        "pdf_url": "https://ijece.iaescore.com/index.php/IJECE/article/download/37986/18528",
+        "source": {
+          "id": "https://openalex.org/S4210235676",
+          "display_name": "International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering",
+          "issn_l": "2722-256X",
+          "issn": [
+            "2722-256X",
+            "2722-2578"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315009",
+          "host_organization_name": "Institute of Advanced Engineering and Science (IAES)",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315009"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Advanced Engineering and Science (IAES)"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Electrical and Computer Engineering (IJECE)",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.11591/ijece.v15i6.pp5401-5410"
+    },
+    {
+      "id": "https://openalex.org/W7134021107",
+      "display_name": "Communication directionnelle dans des scénarios non coopératifs permise par l’estimation et la localisation de la largeur de faisceau de l’utilisateur primaire",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:2025BRUN0025",
+        "is_oa": true,
+        "landing_page_url": "http://www.theses.fr/2025BRUN0025/document",
+        "pdf_url": "https://theses.hal.science/tel-05536300/document",
+        "source": {
+          "id": "https://openalex.org/S4406923047",
+          "display_name": "theses.fr (ABES)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W4416939978",
+      "display_name": "Virtual Multiple‐Input Multiple‐Output–Based Optimized Cross‐Layer Design for Wireless Sensor Networks",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1002/dac.70313",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/dac.70313",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/dac.70313",
+        "source": {
+          "id": "https://openalex.org/S175310385",
+          "display_name": "International Journal of Communication Systems",
+          "issn_l": "1074-5351",
+          "issn": [
+            "1074-5351",
+            "1099-1131"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Communication Systems",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1002/dac.70313"
+    },
+    {
+      "id": "https://openalex.org/W2570327134",
+      "display_name": "A wireless sensor network system for border security and crossing detection",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:e-space.mmu.ac.uk:615894",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": "https://e-space.mmu.ac.uk/615894/1/Fayez%20Thesis.pdf",
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.83056/mmu.32439444"
+    },
+    {
+      "id": "https://openalex.org/W7124126678",
+      "display_name": "Optimisation de la topologie de réseaux mobiles sans fil à l'aide d'algorithmes d'apprentissage automatique",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:oai:HAL:tel-05454409v1",
+        "is_oa": true,
+        "landing_page_url": "https://theses.hal.science/tel-05454409",
+        "pdf_url": "https://theses.hal.science/tel-05454409v1/document",
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Networking and Internet Architecture [cs.NI]. Sorbonne Université, 2025. English. &#x27E8;NNT : 2025SORUS407&#x27E9;",
+        "raw_type": "Theses"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    }
+  ],
+  "group_by": []
+}

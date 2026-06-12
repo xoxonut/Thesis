@@ -1,0 +1,54 @@
+Total results: 13
+
+[1] Cognitive Radio Networks: Technologies, Challenges and Applications
+    Year: 2025 | Citations: 11 | Venue: Sensors (journal)
+    DOI: https://doi.org/10.3390/s25041011
+--------------------------------------------------------------------------------
+[2] Leveraging 3GPP Features and Optimization Techniques for 5G NR-V2X Resource Allocation: A Survey
+    Year: 2025 | Citations: 3 | Venue: IEEE Open Journal of Intelligent Transportation Systems (journal)
+    DOI: https://doi.org/10.1109/ojits.2025.3584024
+--------------------------------------------------------------------------------
+[3] Cell-Free Full-Duplex Communication—An Overview
+    Year: 2025 | Citations: 2 | Venue: IEEE Transactions on Communications (journal)
+    DOI: https://doi.org/10.1109/tcomm.2025.3583637
+--------------------------------------------------------------------------------
+[4] Interference Challenges and Mitigation Strategies for LoRa in Dense IoT Networks: A Review
+    Year: 2025 | Citations: 0 | Venue: Journal of Engineering Science and Technology Review (journal)
+    DOI: https://doi.org/10.25103/jestr.186.20
+--------------------------------------------------------------------------------
+[5] Deep Reinforcement Learning Reconfigurable Smart Surface Sensing MAC Protocol for Terahertz Mesh Networks
+    Year: 2026 | Citations: 0 | Venue: IET Networks (journal)
+    DOI: https://doi.org/10.1049/ntw2.70025
+--------------------------------------------------------------------------------
+[6] Real-Time Interference Management in Next-Generation Wireless Systems
+    Year: 2025 | Citations: 0 | Venue: Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable Applications (journal)
+    DOI: https://doi.org/10.58346/jowua.2025.i2.020
+--------------------------------------------------------------------------------
+[7] Adaptive Multi-Connectivity Communication for Enhanced Reliability in B5G Vehicular Networks
+    Year: 2025 | Citations: 0 | Venue: Journal of Communications Software and Systems (journal)
+    DOI: https://doi.org/10.24138/jcomss-2025-0081
+--------------------------------------------------------------------------------
+[8] Intelligent Forensics in Next-Generation Mobile Networks: Evidence, Methods, and Applications
+    Year: 2026 | Citations: 0 | Venue: arXiv (Cornell University) (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[9] Enhanced spectrum sensing in MIMO-OFDM cognitive radio networks using multi-user detection and square-law combining techniques
+    Year: 2025 | Citations: 0 | Venue: International Journal of Power Electronics and Drive Systems/International Journal of Electrical and Computer Engineering (journal)
+    DOI: https://doi.org/10.11591/ijece.v15i6.pp5401-5410
+--------------------------------------------------------------------------------
+[10] Communication directionnelle dans des scénarios non coopératifs permise par l’estimation et la localisation de la largeur de faisceau de l’utilisateur primaire
+    Year: 2025 | Citations: 0 | Venue: theses.fr (ABES) (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[11] Virtual Multiple‐Input Multiple‐Output–Based Optimized Cross‐Layer Design for Wireless Sensor Networks
+    Year: 2025 | Citations: 0 | Venue: International Journal of Communication Systems (journal)
+    DOI: https://doi.org/10.1002/dac.70313
+--------------------------------------------------------------------------------
+[12] A wireless sensor network system for border security and crossing detection
+    Year: 2026 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.83056/mmu.32439444
+--------------------------------------------------------------------------------
+[13] Optimisation de la topologie de réseaux mobiles sans fil à l'aide d'algorithmes d'apprentissage automatique
+    Year: 2025 | Citations: 0 | Venue: HAL (Le Centre pour la Communication Scientifique Directe) (repository)
+    DOI: None
+--------------------------------------------------------------------------------

@@ -1,0 +1,1684 @@
+{
+  "meta": {
+    "count": 596,
+    "db_response_time_ms": 1285,
+    "page": 1,
+    "per_page": 50,
+    "groups_count": null,
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4416208968",
+      "display_name": "From Fingerprinting to Advanced Machine Learning: A Systematic Review of Wi-Fi and BLE-Based Indoor Positioning Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.3390/s25226946",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/s25226946",
+        "pdf_url": "https://www.mdpi.com/1424-8220/25/22/6946/pdf?version=1763099418",
+        "source": {
+          "id": "https://openalex.org/S101949793",
+          "display_name": "Sensors",
+          "issn_l": "1424-8220",
+          "issn": [
+            "1424-8220"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sensors",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 5,
+      "doi": "https://doi.org/10.3390/s25226946"
+    },
+    {
+      "id": "https://openalex.org/W4413472492",
+      "display_name": "Efficient Channel Estimation for Rotatable Antenna-Enabled Wireless Communication",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/lwc.2025.3601979",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/lwc.2025.3601979",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2500830676",
+          "display_name": "IEEE Wireless Communications Letters",
+          "issn_l": "2162-2337",
+          "issn": [
+            "2162-2337",
+            "2162-2345"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Wireless Communications Letters",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 5,
+      "doi": "https://doi.org/10.1109/lwc.2025.3601979"
+    },
+    {
+      "id": "https://openalex.org/W4406949247",
+      "display_name": "Near-Field Localization for Mobile Robots With Single-Antenna Devices",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/tcomm.2025.3535892",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tcomm.2025.3535892",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S196647941",
+          "display_name": "IEEE Transactions on Communications",
+          "issn_l": "0090-6778",
+          "issn": [
+            "0090-6778",
+            "1558-0857"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316002",
+          "host_organization_name": "IEEE Communications Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316002",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Communications Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.1109/tcomm.2025.3535892"
+    },
+    {
+      "id": "https://openalex.org/W4407736552",
+      "display_name": "CrossNet: Joint Channel Estimation and Localization in Deep Learning Method",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/lcomm.2025.3543579",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/lcomm.2025.3543579",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S147316732",
+          "display_name": "IEEE Communications Letters",
+          "issn_l": "1089-7798",
+          "issn": [
+            "1089-7798",
+            "1558-2558",
+            "2373-7891"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316002",
+          "host_organization_name": "IEEE Communications Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316002",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Communications Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Communications Letters",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 3,
+      "doi": "https://doi.org/10.1109/lcomm.2025.3543579"
+    },
+    {
+      "id": "https://openalex.org/W4408071504",
+      "display_name": "ISAC-Oriented Beamforming Feedback Design and Optimization for WiFi Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jiot.2025.3545946",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jiot.2025.3545946",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2480266640",
+          "display_name": "IEEE Internet of Things Journal",
+          "issn_l": "2327-4662",
+          "issn": [
+            "2327-4662",
+            "2372-2541"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Internet of Things Journal",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 4,
+      "doi": "https://doi.org/10.1109/jiot.2025.3545946"
+    },
+    {
+      "id": "https://openalex.org/W4414064093",
+      "display_name": "5G High-Precision Positioning in GNSS-Denied Environments Using a Positional Encoding-Enhanced Deep Residual Network",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.3390/s25175578",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/s25175578",
+        "pdf_url": "https://www.mdpi.com/1424-8220/25/17/5578/pdf?version=1757313205",
+        "source": {
+          "id": "https://openalex.org/S101949793",
+          "display_name": "Sensors",
+          "issn_l": "1424-8220",
+          "issn": [
+            "1424-8220"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sensors",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.3390/s25175578"
+    },
+    {
+      "id": "https://openalex.org/W7124421991",
+      "display_name": "RF-3DGS: Wireless Channel Modeling With Radio Radiance Field and 3D Gaussian Splatting",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.1109/twc.2026.3652154",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/twc.2026.3652154",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63459445",
+          "display_name": "IEEE Transactions on Wireless Communications",
+          "issn_l": "1536-1276",
+          "issn": [
+            "1536-1276",
+            "1558-2248"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Wireless Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.1109/twc.2026.3652154"
+    },
+    {
+      "id": "https://openalex.org/W7117503543",
+      "display_name": "Exploration of Device-Free Sensing Ability Based on Bluetooth 6.0 Channel Sounding",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1145/3714394.3754369",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3714394.3754369",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Companion of the 2025 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1145/3714394.3754369"
+    },
+    {
+      "id": "https://openalex.org/W4407639502",
+      "display_name": "Single-Input-Multiple-Output Wi-Fi Radar for Vital Signal Sensing and Device Tracking",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jcs64661.2025.10880631",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jcs64661.2025.10880631",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 5th International Symposium on Joint Communications &amp;amp; Sensing (JC&amp;amp;S)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1109/jcs64661.2025.10880631"
+    },
+    {
+      "id": "https://openalex.org/W4414603873",
+      "display_name": "CKMImageNet: A Dataset for AI-Based Channel Knowledge Map Toward Environment-Aware Communication and Sensing",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/tcomm.2025.3615778",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tcomm.2025.3615778",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S196647941",
+          "display_name": "IEEE Transactions on Communications",
+          "issn_l": "0090-6778",
+          "issn": [
+            "0090-6778",
+            "1558-0857"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316002",
+          "host_organization_name": "IEEE Communications Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316002",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Communications Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 2,
+      "doi": "https://doi.org/10.1109/tcomm.2025.3615778"
+    },
+    {
+      "id": "https://openalex.org/W4413968576",
+      "display_name": "AdaptTrack: A Robust Tracking System for Complex Environments Based on WiFi Device Selection Strategy",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1145/3749506",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3749506",
+        "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3749506",
+        "source": {
+          "id": "https://openalex.org/S4210219751",
+          "display_name": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+          "issn_l": "2474-9567",
+          "issn": [
+            "2474-9567"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1145/3749506"
+    },
+    {
+      "id": "https://openalex.org/W4413136981",
+      "display_name": "Harnessing Spatial Diversity for Physical Layer Security Without Adversary Channel Knowledge",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/twc.2025.3594733",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/twc.2025.3594733",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63459445",
+          "display_name": "IEEE Transactions on Wireless Communications",
+          "issn_l": "1536-1276",
+          "issn": [
+            "1536-1276",
+            "1558-2248"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Wireless Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 1,
+      "doi": "https://doi.org/10.1109/twc.2025.3594733"
+    },
+    {
+      "id": "https://openalex.org/W4416679523",
+      "display_name": "Enhanced Physical Layer Authentication via Robust and Trustworthy Sensing",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.36227/techrxiv.176403878.80301053/v1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.36227/techrxiv.176403878.80301053/v1",
+        "pdf_url": "https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176403878.80301053/v1",
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Techrxiv",
+        "raw_type": "posted-content"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.36227/techrxiv.176403878.80301053/v1"
+    },
+    {
+      "id": "https://openalex.org/W4406948532",
+      "display_name": "Next Generation Advanced Transceiver Technologies for 6G and Beyond",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jsac.2025.3536557",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1109/jsac.2025.3536557",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S90422530",
+          "display_name": "IEEE Journal on Selected Areas in Communications",
+          "issn_l": "0733-8716",
+          "issn": [
+            "0733-8716",
+            "1558-0008"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Journal on Selected Areas in Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 75,
+      "doi": "https://doi.org/10.1109/jsac.2025.3536557"
+    },
+    {
+      "id": "https://openalex.org/W4410341585",
+      "display_name": "Model-based MIMO Angle of Arrival Estimation for Next Generation Wireless Communication Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/ncc63735.2025.10983128",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ncc63735.2025.10983128",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 National Conference on Communications (NCC)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/ncc63735.2025.10983128"
+    },
+    {
+      "id": "https://openalex.org/W4417116168",
+      "display_name": "On Estimation of Angles of Arrival in Monostatic ISAC Without Instantaneous Transmit CSI",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2510.08793",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2510.08793",
+        "pdf_url": "https://arxiv.org/pdf/2510.08793",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2510.08793"
+    },
+    {
+      "id": "https://openalex.org/W7139113405",
+      "display_name": "High-accuracy AoA-based Localization using Hierarchical ML Classifiers in Outdoor Environments",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/globecom59602.2025.11431716",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/globecom59602.2025.11431716",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GLOBECOM 2025 - 2025 IEEE Global Communications Conference",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/globecom59602.2025.11431716"
+    },
+    {
+      "id": "https://openalex.org/W4412482569",
+      "display_name": "Dissimilarity-Based Localization in Wireless Angle-of-Arrival Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/wfcs63373.2025.11077654",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/wfcs63373.2025.11077654",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 21st International Conference on Factory Communication Systems (WFCS)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/wfcs63373.2025.11077654"
+    },
+    {
+      "id": "https://openalex.org/W4414348557",
+      "display_name": "ISAC Imaging by Channel State Information Using Ray Tracing for Next Generation 6G",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jsteap.2025.3605877",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jsteap.2025.3605877",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S5407048732",
+          "display_name": "IEEE Journal of Selected Topics in Electromagnetics Antennas and Propagation",
+          "issn_l": "3066-2494",
+          "issn": [
+            "3066-2494"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Journal of Selected Topics in Electromagnetics, Antennas and Propagation",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 25,
+      "doi": "https://doi.org/10.1109/jsteap.2025.3605877"
+    },
+    {
+      "id": "https://openalex.org/W4417510074",
+      "display_name": "Deep Learning-Enhanced Indoor Localization Using Joint AOA-TOA Fingerprints",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/ictc67375.2025.11292407",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ictc67375.2025.11292407",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 6th Information Communication Technologies Conference (ICTC)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/ictc67375.2025.11292407"
+    },
+    {
+      "id": "https://openalex.org/W4407927159",
+      "display_name": "Robotic near-field sensing and localization technology with deep integration of channel information and mobile trajectories",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1360/ssi-2024-0301",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1360/ssi-2024-0301",
+        "pdf_url": "https://www.sciengine.com/doi/pdf/08AA43C28A304DF78B5E90EFABAF9E62",
+        "source": {
+          "id": "https://openalex.org/S4210201508",
+          "display_name": "Scientia Sinica Informationis",
+          "issn_l": "1674-7267",
+          "issn": [
+            "1674-7267",
+            "2095-9486"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319973",
+          "host_organization_name": "Science China Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319973"
+          ],
+          "host_organization_lineage_names": [
+            "Science China Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SCIENTIA SINICA Informationis",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1360/ssi-2024-0301"
+    },
+    {
+      "id": "https://openalex.org/W7134094468",
+      "display_name": "Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2603.05062",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2603.05062",
+        "pdf_url": "https://arxiv.org/pdf/2603.05062",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W7140893850",
+      "display_name": "Active Learning for Joint AoA and CSI Acquisition in mmWave Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/ieeeconf67917.2025.11443769",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ieeeconf67917.2025.11443769",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 59th Asilomar Conference on Signals, Systems, and Computers",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/ieeeconf67917.2025.11443769"
+    },
+    {
+      "id": "https://openalex.org/W4410582736",
+      "display_name": "ML-Assisted RIS for ISAC Systems: Initial Results in the 6G Study Band",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.23919/eucap63536.2025.10999385",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.23919/eucap63536.2025.10999385",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 19th European Conference on Antennas and Propagation (EuCAP)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.23919/eucap63536.2025.10999385"
+    },
+    {
+      "id": "https://openalex.org/W7131523884",
+      "display_name": "Localization of Wi-Fi Access Points Using Channel State Information from a Mobile Embedded Device",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:oai:opus4.libdoc:18337",
+        "is_oa": false,
+        "landing_page_url": "https://libdoc.whz.de/opus4/frontdoor/index/index/docId/18337",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407053567",
+          "display_name": "LIBDOC - Westsächsische Hochschule Zwickau",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "doc-type:masterThesis"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W7130237492",
+      "display_name": "Rethinking RSSI for WiFi Sensing",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2602.14004",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2602.14004",
+        "pdf_url": "https://arxiv.org/pdf/2602.14004",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W7129607932",
+      "display_name": "Rethinking RSSI for WiFi Sensing",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:doi:10.48550/arxiv.2602.14004",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4406922384",
+          "display_name": "Open MIND",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2602.14004"
+    },
+    {
+      "id": "https://openalex.org/W4415709129",
+      "display_name": "Hybrid Deep Learning for Angle of Arrival Estimation: A Case Study on the H-WiLD Dataset",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/apcap65837.2025.11210693",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/apcap65837.2025.11210693",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 13th Asia-Pacific Conference on Antennas and Propagation (APCAP)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/apcap65837.2025.11210693"
+    },
+    {
+      "id": "https://openalex.org/W7153672000",
+      "display_name": "Channel Knowledge Map-Enabled NLoS ISAC Localization",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2604.06646",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2604.06646",
+        "pdf_url": "https://arxiv.org/pdf/2604.06646",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W4415709340",
+      "display_name": "Online Phase Calibration Based on MIMO Antenna Array for AoA Estimation",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/apcap65837.2025.11210725",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/apcap65837.2025.11210725",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 13th Asia-Pacific Conference on Antennas and Propagation (APCAP)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/apcap65837.2025.11210725"
+    },
+    {
+      "id": "https://openalex.org/W4413359463",
+      "display_name": "Indoor Localization Using Low-Rank Matrix Recovery and Dynamic Parameter Estimation Algorithm With Commodity Wi-Fi",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/tim.2025.3600699",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tim.2025.3600699",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S10892749",
+          "display_name": "IEEE Transactions on Instrumentation and Measurement",
+          "issn_l": "0018-9456",
+          "issn": [
+            "0018-9456",
+            "1557-9662"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Instrumentation and Measurement",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/tim.2025.3600699"
+    },
+    {
+      "id": "https://openalex.org/W4415822340",
+      "display_name": "Joint Sensing and Communication for V2V Localization Using Chirp-QPSK Waveform in 6G Networks",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/micc66164.2025.11210973",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/micc66164.2025.11210973",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 17th Malaysia International Conference on Communication (MICC)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/micc66164.2025.11210973"
+    },
+    {
+      "id": "https://openalex.org/W4406857846",
+      "display_name": "Low Dynamic Range for RIS-Aided Bistatic Integrated Sensing and Communication",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jsac.2025.3531533",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jsac.2025.3531533",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S90422530",
+          "display_name": "IEEE Journal on Selected Areas in Communications",
+          "issn_l": "0733-8716",
+          "issn": [
+            "0733-8716",
+            "1558-0008"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Journal on Selected Areas in Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 49,
+      "doi": "https://doi.org/10.1109/jsac.2025.3531533"
+    },
+    {
+      "id": "https://openalex.org/W7160457644",
+      "display_name": "Reduced-Feedback Hybrid Precoding for Wideband mmWave MIMO-OFDM Systems",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2605.02418",
+        "is_oa": true,
+        "landing_page_url": "https://arxiv.org/abs/2605.02418",
+        "pdf_url": "https://arxiv.org/pdf/2605.02418",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": null
+    },
+    {
+      "id": "https://openalex.org/W4410582129",
+      "display_name": "On Using Spatial and Temporal Features for Robust Multiuser Pose Estimation Based on WiFi CSI",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jiot.2025.3572208",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jiot.2025.3572208",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2480266640",
+          "display_name": "IEEE Internet of Things Journal",
+          "issn_l": "2327-4662",
+          "issn": [
+            "2327-4662",
+            "2372-2541"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Internet of Things Journal",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/jiot.2025.3572208"
+    },
+    {
+      "id": "https://openalex.org/W7134031618",
+      "display_name": "Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "pmh:doi:10.48550/arxiv.2603.05062",
+        "is_oa": true,
+        "landing_page_url": null,
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4406922384",
+          "display_name": "Open MIND",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2603.05062"
+    },
+    {
+      "id": "https://openalex.org/W7139071419",
+      "display_name": "Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.1109/tcomm.2026.3675471",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tcomm.2026.3675471",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S196647941",
+          "display_name": "IEEE Transactions on Communications",
+          "issn_l": "0090-6778",
+          "issn": [
+            "0090-6778",
+            "1558-0857"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316002",
+          "host_organization_name": "IEEE Communications Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316002",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Communications Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Communications",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/tcomm.2026.3675471"
+    },
+    {
+      "id": "https://openalex.org/W7134033090",
+      "display_name": "Physical Embedding for Radio Map Construction",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.2139/ssrn.6245320",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2139/ssrn.6245320",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.2139/ssrn.6245320"
+    },
+    {
+      "id": "https://openalex.org/W4414568286",
+      "display_name": "Perception-assisted superimposed CSI feedback for millimeter wave massive MIMO systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1016/j.phycom.2025.102864",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.phycom.2025.102864",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S148523156",
+          "display_name": "Physical Communication",
+          "issn_l": "1874-4907",
+          "issn": [
+            "1874-4907",
+            "1876-3219"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Physical Communication",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1016/j.phycom.2025.102864"
+    },
+    {
+      "id": "https://openalex.org/W4417201677",
+      "display_name": "Sensing Parameter Estimation in Uplink Asynchronous Perceptive Mobile Networks",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/access.2025.3642242",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1109/access.2025.3642242",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2485537415",
+          "display_name": "IEEE Access",
+          "issn_l": "2169-3536",
+          "issn": [
+            "2169-3536"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Access",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/access.2025.3642242"
+    },
+    {
+      "id": "https://openalex.org/W4412626496",
+      "display_name": "AoA estimation based on Wi-Fi CSI and deep learning",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1117/12.3068662",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1117/12.3068662",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Fourth International Conference on Electronics Technology and Artificial Intelligence (ETAI 2025)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1117/12.3068662"
+    },
+    {
+      "id": "https://openalex.org/W4416417207",
+      "display_name": "Joint localization and channel estimation for terahertz near-field ISAC UM-MIMO systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1007/s11432-025-4650-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11432-025-4650-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210218743",
+          "display_name": "Science China Information Sciences",
+          "issn_l": "1674-733X",
+          "issn": [
+            "1674-733X",
+            "1869-1919"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Science China Information Sciences",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1007/s11432-025-4650-4"
+    },
+    {
+      "id": "https://openalex.org/W7136858714",
+      "display_name": "Low-Complexity Sparse and High-Resolution Estimation of CSI and Bistatic Parameters in Beam-Squinted ISAC Systems",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/ants66931.2025.11429923",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/ants66931.2025.11429923",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE International Conference on Advanced Networks and Telecommunications Systems (ANTS)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/ants66931.2025.11429923"
+    },
+    {
+      "id": "https://openalex.org/W4416497905",
+      "display_name": "Efficient Channel Estimation for Rotatable Antenna-Enabled Wireless Communication",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2506.20158",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2506.20158",
+        "pdf_url": "https://arxiv.org/pdf/2506.20158",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2506.20158"
+    },
+    {
+      "id": "https://openalex.org/W4414586572",
+      "display_name": "Water Level Sensing via Communication Signals in a Bi-Static System",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2505.19539",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2505.19539",
+        "pdf_url": "https://arxiv.org/pdf/2505.19539",
+        "source": {
+          "id": "https://openalex.org/S4393918464",
+          "display_name": "ArXiv.org",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2505.19539"
+    },
+    {
+      "id": "https://openalex.org/W4414908412",
+      "display_name": "Continuous AoA–ToF Maps Feature for Single-Pair Wi-Fi Sensing of Human Activity Recognition",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/jsen.2025.3616769",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jsen.2025.3616769",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S189694085",
+          "display_name": "IEEE Sensors Journal",
+          "issn_l": "1530-437X",
+          "issn": [
+            "1530-437X",
+            "1558-1748"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310321027",
+          "host_organization_name": "IEEE Sensors Council",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310321027",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Sensors Council",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Sensors Journal",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/jsen.2025.3616769"
+    },
+    {
+      "id": "https://openalex.org/W7140134918",
+      "display_name": "Non-Cooperative Localization via WiFi Traffic Sniffing",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.1109/tmc.2026.3676436",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/tmc.2026.3676436",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S69141925",
+          "display_name": "IEEE Transactions on Mobile Computing",
+          "issn_l": "1536-1233",
+          "issn": [
+            "1536-1233",
+            "1558-0660",
+            "2161-9875"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320439",
+          "host_organization_name": "IEEE Computer Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320439",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Computer Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Transactions on Mobile Computing",
+        "raw_type": "journal-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/tmc.2026.3676436"
+    },
+    {
+      "id": "https://openalex.org/W7152621284",
+      "display_name": "Channel Knowledge Map-Enabled NLoS ISAC Localization",
+      "publication_year": 2026,
+      "primary_location": {
+        "id": "doi:10.48550/arxiv.2604.06646",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2604.06646",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.48550/arxiv.2604.06646"
+    },
+    {
+      "id": "https://openalex.org/W7118464437",
+      "display_name": "WiDuo: Dual-Antenna Real-Time Single-Target Passive WiFi Tracking",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/indin64977.2025.11279447",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/indin64977.2025.11279447",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE 23rd International Conference on Industrial Informatics (INDIN)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/indin64977.2025.11279447"
+    },
+    {
+      "id": "https://openalex.org/W4408862989",
+      "display_name": "Human Activity Recognition Scheme Based on Time-Series Analysis of Multi-Antenna AoA Data",
+      "publication_year": 2025,
+      "primary_location": {
+        "id": "doi:10.1109/icce63647.2025.10930050",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icce63647.2025.10930050",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE International Conference on Consumer Electronics (ICCE)",
+        "raw_type": "proceedings-article"
+      },
+      "cited_by_count": 0,
+      "doi": "https://doi.org/10.1109/icce63647.2025.10930050"
+    }
+  ],
+  "group_by": []
+}

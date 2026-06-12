@@ -1,0 +1,416 @@
+{
+  "query_oa": "wifi \"hidden node\" RSSI active",
+  "query_arxiv": "all:\"hidden node\" AND all:wifi AND (all:RSSI OR all:active OR all:detection)",
+  "papers": [
+    {
+      "title": "A Tutorial on IEEE 802.11ax High Efficiency WLANs",
+      "authors": [
+        "Evgeny Khorov",
+        "Anton Kiryanov",
+        "Andrey Lyakhov",
+        "Giuseppe Bianchi"
+      ],
+      "year": 2018,
+      "venue": "IEEE Communications Surveys & Tutorials",
+      "citations": 557,
+      "doi": "https://doi.org/10.1109/comst.2018.2871099",
+      "abstract": "While celebrating the 21st year since the very first IEEE 802.11 “legacy” 2 Mbit/s wireless local area network standard, the latest Wi-Fi newborn is today reaching the finish line, topping the remarkable speed of 10 Gbit/s. IEEE 802.11ax was launched in May 2014 with the goal of enhancing throughput-per-area in high-density scenarios. The first 802.11ax draft versions, namely, D1.0 and D2.0, were released at the end of 2016 and 2017. Focusing on a more mature version D3.0, in this tutorial paper, we help the reader to smoothly enter into the several major 802.11ax breakthroughs, including a brand new orthogonal frequency-division multiple access-based random access approach as well as novel spatial frequency reuse techniques. In addition, this tutorial will highlight selected significant improvements (including physical layer enhancements, multi-user multiple input multiple output extensions, power saving advances, and so on) which make this standard a very significant step forward with respect to its predecessor 802.11ac.",
+      "url": "https://openalex.org/W2890950736"
+    },
+    {
+      "title": "Wireless Multimedia Sensor Networks: Current Trends and Future Directions",
+      "authors": [
+        "Islam T. Almalkawi",
+        "Manel Guerrero Zapata",
+        "Jamal N. Al‐Karaki",
+        "Julián David Morillo Pozo"
+      ],
+      "year": 2010,
+      "venue": "Sensors",
+      "citations": 262,
+      "doi": "https://doi.org/10.3390/s100706662",
+      "abstract": "Wireless Multimedia Sensor Networks (WMSNs) have emerged and shifted the focus from the typical scalar wireless sensor networks to networks with multimedia devices that are capable to retrieve video, audio, images, as well as scalar sensor data. WMSNs are able to deliver multimedia content due to the availability of inexpensive CMOS cameras and microphones coupled with the significant progress in distributed signal processing and multimedia source coding techniques. In this paper, we outline the design challenges of WMSNs, give a comprehensive discussion of the proposed architectures, algorithms and protocols for the different layers of the communication protocol stack for WMSNs, and evaluate the existing WMSN hardware and testbeds. The paper will give the reader a clear view of the state of the art at all aspects of this research area, and shed the light on its main current challenges and future trends. We also hope it will foster discussions and new research ideas among its researchers.",
+      "url": "https://openalex.org/W2012510063"
+    },
+    {
+      "title": "Review of Indoor Positioning: Radio Wave Technology",
+      "authors": [
+        "Tan Kim Geok",
+        "Khaing Zar Aung",
+        "Moe Sandar Aung",
+        "Thu Soe Min",
+        "Azlan Abdaziz",
+        "Chia Pao Liew",
+        "Ferdous Hossain",
+        "C.P. Tso",
+        "Wong Hin Yong"
+      ],
+      "year": 2020,
+      "venue": "Applied Sciences",
+      "citations": 187,
+      "doi": "https://doi.org/10.3390/app11010279",
+      "abstract": "The indoor positioning system (IPS) is becoming increasing important in accurately determining the locations of objects by the utilization of micro-electro-mechanical-systems (MEMS) involving smartphone sensors, embedded sources, mapping localizations, and wireless communication networks. Generally, a global positioning system (GPS) may not be effective in servicing the reality of a complex indoor environment, due to the limitations of the line-of-sight (LoS) path from the satellite. Different techniques have been used in indoor localization services (ILSs) in order to solve particular issues, such as multipath environments, the energy inefficiency of long-term battery usage, intensive labour and the resources of offline information collection and the estimation of accumulated positioning errors. Moreover, advanced algorithms, machine learning, and valuable algorithms have given rise to effective ways in determining indoor locations. This paper presents a comprehensive review on the positioning algorithms for indoors, based on advances reported in radio wave, infrared, visible light, sound, and magnetic field technologies. The traditional ranging parameters in addition to advanced parameters such as channel state information (CSI), reference signal received power (RSRP), and reference signal received quality (RSRQ) are also presented for distance estimation in localization systems. In summary, the recent advanced algorithms can offer precise positioning behaviour for an unknown environment in indoor locations.",
+      "url": "https://openalex.org/W3116792877"
+    },
+    {
+      "title": "A Survey of Indoor Localization Systems and Technologies",
+      "authors": [
+        "Faheem Zafari",
+        "Athanasios Gkelias",
+        "Kin K. Leung"
+      ],
+      "year": 2017,
+      "venue": "arXiv (Cornell University)",
+      "citations": 182,
+      "doi": "https://doi.org/10.48550/arxiv.1709.01015",
+      "abstract": "Indoor localization has recently witnessed an increase in interest, due to the potential wide range of services it can provide by leveraging Internet of Things (IoT), and ubiquitous connectivity. Different techniques, wireless technologies and mechanisms have been proposed in the literature to provide indoor localization services in order to improve the services provided to the users. However, there is a lack of an up-to-date survey paper that incorporates some of the recently proposed accurate and reliable localization systems. In this paper, we aim to provide a detailed survey of different indoor localization techniques such as Angle of Arrival (AoA), Time of Flight (ToF), Return Time of Flight (RTOF), Received Signal Strength (RSS); based on technologies such as WiFi, Radio Frequency Identification Device (RFID), Ultra Wideband (UWB), Bluetooth and systems that have been proposed in the literature. The paper primarily discusses localization and positioning of human users and their devices. We highlight the strengths of the existing systems proposed in the literature. In contrast with the existing surveys, we also evaluate different systems from the perspective of energy efficiency, availability, cost, reception range, latency, scalability and tracking accuracy. Rather than comparing the technologies or techniques, we compare the localization systems and summarize their working principle. We also discuss remaining challenges to accurate indoor localization.",
+      "url": "https://openalex.org/W2751571889"
+    },
+    {
+      "title": "Five Facets of 6G: Research Challenges and Opportunities",
+      "authors": [
+        "Li-Hsiang Shen",
+        "Kai‐Ten Feng",
+        "Lajos Hanzo"
+      ],
+      "year": 2022,
+      "venue": "ACM Computing Surveys",
+      "citations": 161,
+      "doi": "https://doi.org/10.1145/3571072",
+      "abstract": "While the fifth-generation systems are being rolled out across the globe, researchers have turned their attention to the exploration of radical next-generation solutions. At this early evolutionary stage, we survey five main research facets of this field, namely Facet 1: next-generation architectures, spectrum, and services; Facet 2: next-generation networking; Facet 3: Internet of Things; Facet 4: wireless positioning and sensing; and Facet 5: applications of deep learning in 6G networks. In this article, we provide a critical appraisal of the literature of promising techniques ranging from the associated architectures, networking, and applications, as well as designs. We portray a plethora of heterogeneous architectures relying on cooperative hybrid networks supported by diverse access and transmission mechanisms. The vulnerabilities of these techniques are also addressed and carefully considered for highlighting the most of promising future research directions. Additionally, we list a rich suite of learning-driven optimization techniques. We conclude by observing the evolutionary paradigm shift that has taken place from pure single-component bandwidth efficiency, power efficiency, or delay optimization toward multi-component designs, as exemplified by the twin-component ultra-reliable low-latency mode of the fifth-generation system. We advocate a further evolutionary step toward multi-component Pareto optimization, which requires the exploration of the entire Pareto front of all optimal solutions, where none of the components of the objective function may be improved without degrading at least one of the other components.",
+      "url": "https://openalex.org/W4309694836"
+    },
+    {
+      "title": "3D through-wall imaging with unmanned aerial vehicles using wifi",
+      "authors": [
+        "Chitra R. Karanam",
+        "Yasamin Mostofi"
+      ],
+      "year": 2017,
+      "venue": "Unknown Venue",
+      "citations": 73,
+      "doi": "https://doi.org/10.1145/3055031.3055084",
+      "abstract": "In this paper, we are interested in the 3D through-wall imaging of a completely unknown area, using WiFi RSSI and Unmanned Aerial Vehicles (UAVs) that move outside of the area of interest to collect WiFi measurements. It is challenging to estimate a volume represented by an extremely high number of voxels with a small number of measurements. Yet many applications are time-critical and/or limited on resources, precluding extensive measurement collection. In this paper, we then propose an approach based on Markov random field modeling, loopy belief propagation, and sparse signal processing for 3D imaging based on wireless power measurements. Furthermore, we show how to design efficient aerial routes that are informative for 3D imaging. Finally, we design and implement a complete experimental testbed and show high-quality 3D robotic through-wall imaging of unknown areas with less than 4% of measurements.",
+      "url": "https://openalex.org/W2607059693"
+    },
+    {
+      "title": "Off-Line Evaluation of Indoor Positioning Systems in Different Scenarios: The Experiences From IPIN 2020 Competition",
+      "authors": [
+        "Francesco Potortì",
+        "Joaquín Torres-Sospedra",
+        "Darwin Quezada-Gaibor",
+        "Antonio R. Jiménez",
+        "Fernando Seco",
+        "Antoni Pérez-Navarro",
+        "Miguel Ortiz",
+        "Ni Zhu",
+        "Valérie Renaudin",
+        "Ryosuke Ichikari",
+        "Ryo Shimomura",
+        "Nozomu Ohta",
+        "Satsuki Nagae",
+        "Takeshi Kurata",
+        "Dongyan Wei",
+        "Xinchun Ji",
+        "Wenchao Zhang",
+        "Sebastian Kram",
+        "Maximilian Stahlke",
+        "Christopher Mutschler",
+        "Antonino Crivello",
+        "Paolo Barsocchi",
+        "Michele Girolami",
+        "Filippo Palumbo",
+        "Ruizhi Chen",
+        "Yuan Wu",
+        "Wei Li",
+        "Yue Yu",
+        "Shihao Xu",
+        "Lixiong Huang",
+        "Tao Liu",
+        "Jian Kuang",
+        "Xiaoji Niu",
+        "T Yoshida",
+        "Yoshiteru Nagata",
+        "Yuto Fukushima",
+        "Nobuya Fukatani",
+        "Nozomi Hayashida",
+        "Yusuke Asai",
+        "Kenta Urano",
+        "Wenfei Ge",
+        "Nien-Ting Lee",
+        "Shih‐Hau Fang",
+        "You-Cheng Jie",
+        "Shawn-Rong Young",
+        "Ying‐Ren Chien",
+        "Chih-Chieh Yu",
+        "Chengqi Ma",
+        "Bang Wu",
+        "Wei Zhang",
+        "Yankun Wang",
+        "Yonglei Fan",
+        "Stefan Poslad",
+        "David R. Selviah",
+        "Weixi Wang",
+        "Hong Yuan",
+        "Yoshitomo Yonamoto",
+        "Yamaguchi Masahiro",
+        "Tomoya Kaichi",
+        "Baoding Zhou",
+        "Xu Liu",
+        "Zhining Gu",
+        "Chengjing Yang",
+        "Zhiqian Wu",
+        "Doudou Xie",
+        "Can Huang",
+        "Lingxiang Zheng",
+        "Ao Peng",
+        "Ge Jin",
+        "Qu Wang",
+        "Haiyong Luo",
+        "Hao Xiong",
+        "Linfeng Bao",
+        "Pushuo Zhang",
+        "Fang Zhao",
+        "C. Yu",
+        "Chun-Hao Hung",
+        "Leonid Antsfeld",
+        "Boris Chidlovskii",
+        "Haitao Jiang",
+        "Ming Xia",
+        "Dayu Yan",
+        "Yuhang Li",
+        "Yitong Dong",
+        "Ivo Silva",
+        "Cristiano Pendão",
+        "Filipe Meneses",
+        "Maria João Nicolau",
+        "António Costa",
+        "Adriano Moreira",
+        "Cedric De Cock",
+        "David Plets",
+        "Miroslav Opiela",
+        "Jakub Dzama",
+        "Liqiang Zhang",
+        "Hu Li",
+        "Boxuan Chen",
+        "Yu Liu",
+        "Seanglidet Yean",
+        "Bo Zhi Lim"
+      ],
+      "year": 2021,
+      "venue": "IEEE Sensors Journal",
+      "citations": 71,
+      "doi": "https://doi.org/10.1109/jsen.2021.3083149",
+      "abstract": "Every year, for ten years now, the IPIN competition has aimed at evaluating real-world indoor localisation systems by testing them in a realistic environment, with realistic movement, using the EvAAL framework. The competition provided a unique overview of the state-of-the-art of systems, technologies, and methods for indoor positioning and navigation purposes. Through fair comparison of the performance achieved by each system, the competition was able to identify the most promising approaches and to pinpoint the most critical working conditions. In 2020, the competition included 5 diverse off-site off-site Tracks, each resembling real use cases and challenges for indoor positioning. The results in terms of participation and accuracy of the proposed systems have been encouraging. The best performing competitors obtained a third quartile of error of 1 m for the Smartphone Track and 0.5 m for the Foot-mounted IMU Track. While not running on physical systems, but only as algorithms, these results represent impressive achievements.",
+      "url": "https://openalex.org/W3165104704"
+    },
+    {
+      "title": "SWiBluX: Multi-Sensor Deep Learning Fingerprint for Precise Real-Time Indoor Tracking",
+      "authors": [
+        "Alberto Belmonte-Hernández",
+        "Gustavo Hernández-Peñaloza",
+        "David Martin Gutierrez",
+        "Federico Álvarez"
+      ],
+      "year": 2019,
+      "venue": "IEEE Sensors Journal",
+      "citations": 60,
+      "doi": "https://doi.org/10.1109/jsen.2019.2892590",
+      "abstract": "Indoor/outdoor localization topic has gained a significant research interest due to the wide range of potential applications. Commonly, the Fingerprinting methods for spatial characterization of the environments monitored are employed in deterministic/statistical estimation. However, there are Fingerprint parameters that are generally neglected and can seriously affect the performance yielding to low accurate location. Nowadays, machine and deep learning (DL) methods are employed in this topic due to its ability to approximate complex non-linear models being capable of mitigating the undesirable effects of wireless propagation. In this paper, a complete overview of most influential aspects in Fingerprinting and indoor tracking methods is presented. Furthermore, a novel multi-modal complete tracking system, called SWiBluX, based on statistic and DL techniques is presented. The system relies on relevant feature extraction from available data sources to estimate user's/target indoor position using a multi-phase statistical Fingerprint and DL disruptive approach. In addition, a Gaussian outlier filter is applied to the position estimation model output to further reduce the error in the estimation. The set of experiments performed shows that Fingerprint positioning accuracy estimation can be improved up to 45% resulting in a final estimation error that outperforms related literature.",
+      "url": "https://openalex.org/W2910423618"
+    },
+    {
+      "title": "Evaluating Unlicensed LTE Technologies: LAA vs LTE-U",
+      "authors": [
+        "Biljana Bojović",
+        "Lorenza Giupponi",
+        "Zoraze Ali",
+        "Marco Miozzo"
+      ],
+      "year": 2019,
+      "venue": "IEEE Access",
+      "citations": 51,
+      "doi": "https://doi.org/10.1109/access.2019.2926197",
+      "abstract": "Recently, there has been much interest by the cellular network industry in utilizing unlicensed spectrum to expand potential capacity. In particular, two LTE unlicensed technologies gained much attention: licensed-assisted access (LAA) and LTE unlicensed (LTE-U). While these are rapidly entering the market, there are not many studies in the literature that are providing a complete evaluation and comparison of their performance. Available work usually focuses on single technology standalone evaluations. Also, despite the vast body of simulation results by industry and academia, the simulators are not publicly available, and the analytical models proposed in the literature do not offer complex enough frameworks for thorough performance evaluations. To carry out an evaluation study, we have built a comprehensive simulation platform, strictly complying with the standards and specifications of each technology. The models are built upon popular ns-3 simulator, have been designed in close consultation with industry experts, and have been validated through calibration processes and against analytical proposals and experimental platforms. In this paper, we provide a detailed overview, performance evaluation, and comparison of LAA and LTE-U in a wide variety of scenarios, following 3GPP and Wi-Fi Alliance (WFA) guidelines. We show that despite the market is confirming LAA as the leading unlicensed LTE technology, in certain setups, efficient implementations of LTE-U may prove unexpectedly better in coexisting with Wi-Fi. Similarly, the expected behaviors of the LAA LBT procedure can reveal untrue, depending on the traffic or interference patterns and specific implementation details, even in Wi-Fi. This paper also includes scenarios involving TCP, which is a rarely treated topic in the literature in the context of LTE and Wi-Fi coexistence. The end-to-end and full protocol stack simulation platform is openly available to foster results' reproducibility and collaborative development.",
+      "url": "https://openalex.org/W2953644810"
+    },
+    {
+      "title": "Platform and Algorithm Development for a RFID-Based Indoor Positioning System",
+      "authors": [
+        "Han Zou",
+        "Lihua Xie",
+        "Qing‐Shan Jia",
+        "Hengtao Wang"
+      ],
+      "year": 2014,
+      "venue": "Unmanned Systems",
+      "citations": 51,
+      "doi": "https://doi.org/10.1142/s2301385014400068",
+      "abstract": "In recent years, developing Indoor Positioning System (IPS) has become an attractive research topic due to the increasing demands on Location-Based Service (LBS) in indoor environment. Several advantages of Radio Frequency Identification (RFID) Technology, such as anti-interference, small, light and portable size of RFID tags, and its unique identification of different objects, make it superior to other wireless communication technologies for indoor positioning. However, certain drawbacks of existing RFID-based IPSs, such as high cost of RFID readers and active tags, as well as heavy dependence on the density of reference tags to provide the LBS, largely limit the application of RFID-based IPS. In order to overcome these drawbacks, we develop a cost-efficient RFID-based IPS by using cheaper active RFID tags and sensors. Furthermore, we also proposed three localization algorithms: Weighted Path Loss (WPL), Extreme Learning Machine (ELM) and integrated WPL-ELM. WPL is a centralized model-based approach which does not require any reference tags and provides accurate location estimation of the target effectively. ELM is a machine learning fingerprinting-based localization algorithm which can provide higher localization accuracy than other existing fingerprinting-based approaches. The integrated WPL-ELM approach combines the fast estimation of WPL and the high localization accuracy of ELM. Based on the experimental results, this integrated approach provides a higher localization efficiency and accuracy than existing approaches, e.g., the LANDMARC approach and the support vector machine for regression (SVR) approach.",
+      "url": "https://openalex.org/W2134081653"
+    },
+    {
+      "title": "A Comprehensive Review on Energy Harvesting Integration in IoT Systems from MAC Layer Perspective: Challenges and Opportunities",
+      "authors": [
+        "Golshan Famitafreshi",
+        "M. Shahwaiz Afaqui",
+        "Joan Melià‐Seguí"
+      ],
+      "year": 2021,
+      "venue": "Sensors",
+      "citations": 40,
+      "doi": "https://doi.org/10.3390/s21093097",
+      "abstract": "The Internet of Things (IoT) is revolutionizing technology in a wide variety of areas, from smart healthcare to smart transportation. Due to the increasing trend in the number of IoT devices and their different levels of energy requirements, one of the significant concerns in IoT implementations is powering up the IoT devices with conventional limited lifetime batteries. One efficient solution to prolong the lifespan of these implementations is to integrate energy harvesting technologies into IoT systems. However, due to the characteristics of the energy harvesting technologies and the different energy requirements of the IoT systems, this integration is a challenging issue. Since Medium Access Control (MAC) layer operations are the most energy-consuming processes in wireless communications, they have undergone different modifications and enhancements in the literature to address this issue. Despite the essential role of the MAC layer to efficiently optimize the energy consumption in IoT systems, there is a gap in the literature to systematically understand the possible MAC layer improvements allowing energy harvesting integration. In this survey paper, we provide a unified framework for different wireless technologies to measure their energy consumption from a MAC operation-based perspective, returning the essential information to select the suitable energy harvesters for different communication technologies within IoT systems. Our analyses show that only 23% of the presented protocols in the literature fulfill Energy Neutral Operation (ENO) condition. Moreover, 48% of them are based on the hybrid approaches, which shows its capability to be adapted to energy harvesting. We expect this survey paper to lead researchers in academia and industry to understand the current state-of-the-art of energy harvesting MAC protocols for IoT and improve the early adoption of these protocols in IoT systems.",
+      "url": "https://openalex.org/W3157699953"
+    },
+    {
+      "title": "Unsupervised Learning Techniques for Trilateration: From Theory to Android APP Implementation",
+      "authors": [
+        "Jeongsik Choi",
+        "Yang-Seok Choi",
+        "Shilpa Talwar"
+      ],
+      "year": 2019,
+      "venue": "IEEE Access",
+      "citations": 39,
+      "doi": "https://doi.org/10.1109/access.2019.2941657",
+      "abstract": "Because the characteristics of wireless propagation channels (especially indoor channels) are too diverse and complex, the distance estimation strategy of range-based positioning techniques should adaptively change depending on the environment. In this paper, we study unsupervised learning techniques that efficiently do this without human intervention. As users simply move around an area of interest with mobile devices, the proposed method autonomously learns the characteristics of the surrounding environments and changes the ranging strategy accordingly. To this end, we use either model-based or neural network (NN)-based ranging modules for estimating the distance from neighboring anchor nodes, calculate the position of the devices using trilateration techniques, and define cost functions that indirectly evaluate the accuracy of the ranging module based on the trilateration results. Moreover, by assigning a unique trainable variable to each device, the proposed method is also able to compensate for different characteristics between devices without ground truth data. The performance of the proposed method is verified with a real-time location tracking application using received signal strength (RSS) measurements from conventional Wi-Fi access points (APs) or round trip time (RTT) measurements from APs that support the fine timing measurement (FTM) protocol. In cases where a model-based ranging module is used, the proposed method closely achieves the benchmark performance, which perfectly optimizes all the trainable variables on the test data. If NNs are adopted in the ranging module, the proposed method even outperforms the benchmark and achieves an average positioning accuracy of up to 2.397 m using RSS measurements, and up to 1.547 m using RTT measurements under the 40 MHz bandwidth configuration.",
+      "url": "https://openalex.org/W2974868440"
+    },
+    {
+      "title": "Mobility management in IEEE 802.11 WLAN using SDN/NFV technologies",
+      "authors": [
+        "Syed Mushhad Mustuzhar Gilani",
+        "Hong Tang",
+        "Wenqiang Jin",
+        "Guofeng Zhao",
+        "Heng Meng Heang",
+        "Chuan Xu"
+      ],
+      "year": 2017,
+      "venue": "EURASIP Journal on Wireless Communications and Networking",
+      "citations": 35,
+      "doi": "https://doi.org/10.1186/s13638-017-0856-9",
+      "abstract": "IEEE 802.11 wireless LAN is proliferating since the increased trend in the wireless network utilization on mobile devices. Accuracy, fast content delivery, and reliable mobility support are essential features of any network to support the changing trend in a wireless network. However, traditional architectures in wireless LAN (WLANs or WiFi) always endured from challenges such as the provision of consistent mobility, real-time packet flow, and seamless handoff. Generally, most of the WLAN only relies on signal strength for handoff which is not sufficient enough for fair selection of an access point (AP) and therefore causes imperfect performance of the network. We present a novel mobility management scheme for WLANs to deal with the mobility management issues, and load balancing by software-defined network (SDN) and network function virtualization (NFV) technologies. The proposed scheme is based on logical AP (LAP) that keeps a connection with the user/mobile terminal (MT) during handoff triggered by either the user or the SDN controller for seamless mobility. It also involves the current state of each AP in addition to traditional parameters of WLAN. We implemented the proposed scheme on a real testbed in a WLAN environment. The evaluation results authenticate that our proposed scheme provides robust handover without throughput degradation and load imbalance among adjacent APs, and allocates the best AP in the neighboring region. Moreover, our proposed scheme is feasible to implement since it did not require any modification at the mobile terminal.",
+      "url": "https://openalex.org/W2606943368"
+    },
+    {
+      "title": "Survey of Reinforcement-Learning-Based MAC Protocols for Wireless Ad Hoc Networks with a MAC Reference Model",
+      "authors": [
+        "Zhichao Zheng",
+        "Shengming Jiang",
+        "Ruoyu Feng",
+        "Lige Ge",
+        "Chongchong Gu"
+      ],
+      "year": 2023,
+      "venue": "Entropy",
+      "citations": 32,
+      "doi": "https://doi.org/10.3390/e25010101",
+      "abstract": "In this paper, we conduct a survey of the literature about reinforcement learning (RL)-based medium access control (MAC) protocols. As the scale of the wireless ad hoc network (WANET) increases, traditional MAC solutions are becoming obsolete. Dynamic topology, resource allocation, interference management, limited bandwidth and energy constraint are crucial problems needing resolution for designing modern WANET architectures. In order for future MAC protocols to overcome the current limitations in frequently changing WANETs, more intelligence need to be deployed to maintain efficient communications. After introducing some classic RL schemes, we investigate the existing state-of-the-art MAC protocols and related solutions for WANETs according to the MAC reference model and discuss how each proposed protocol works and the challenging issues on the related MAC model components. Finally, this paper discusses future research directions on how RL can be used to enable MAC protocols for high performance.",
+      "url": "https://openalex.org/W4313583401"
+    },
+    {
+      "title": "A differentially private indoor localization scheme with fusion of WiFi and bluetooth fingerprints in edge computing",
+      "authors": [
+        "Xuejun Zhang",
+        "Fucun He",
+        "Qian Chen",
+        "Xinlong Jiang",
+        "Junda Bao",
+        "Tongwei Ren",
+        "Xiaogang Du"
+      ],
+      "year": 2022,
+      "venue": "Neural Computing and Applications",
+      "citations": 30,
+      "doi": "https://doi.org/10.1007/s00521-021-06815-9",
+      "abstract": "Abstract As an enabling technology for edge computing scenarios, indoor localization has a broad prospect in a variety of location-based applications, such as tracking, navigating, and monitoring in indoor environments. In order to improve the location accuracy, numerous machine learning (ML)-based indoor localization schemes with fingerprint fusion have been proposed recently, which take advantage of the fusion of signal gathered from multiple wireless technologies (e.g., WiFi and BLE) and require a site survey to construct the fingerprint database. However, most solutions are based on cloud framework and thus pose a serious privacy leakage because users’ sensitive information (e.g., locations) is computed from the fingerprint database by the untrusted localization service provider. Furthermore, the site survey is time-consuming and labor-intensive. In this paper, we propose a differentially private fingerprint fusion semi-supervised extreme learning machine for indoor localization in the edge computing, called Adp-FSELM. The Adp-FSELM firstly employs a multi-level edge network-based privacy-preserving system framework to meet the requirements of ML-based fingerprint indoor localization for lightweight, low latency, and real-time response. Then, the Adp-FSELM extends the $$\\varepsilon$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mi>ε</mml:mi> </mml:math> -differential privacy to the fingerprint fusion semi-supervised extreme learning machine for indoor localization in edge computing through a three-phase private process consisting of private labeled sample obfuscation, differentially private feature fusion, and differentially private model training. Theoretical and comprehensive experimental results in real indoor environments demonstrate that the Adp-FSELM provides a high $$\\varepsilon$$ <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"> <mml:mi>ε</mml:mi> </mml:math> -differential privacy guarantee for users’ location privacy while reducing human calibration effort and effectively resists Bayesian inference attacks. Compared with the existing semi-supervised learning-based localization methods, the mean absolute error of location accuracy of the Adp-FSELM is restricted to 2.22% at most, and the additional time consumption can be almost ignored. Thus, our mechanism can balance the trade-off among location privacy, location accuracy, and time consumption.",
+      "url": "https://openalex.org/W4220989754"
+    },
+    {
+      "title": "A Hybrid Model Based on Constraint OSELM, Adaptive Weighted SRC and KNN for Large-Scale Indoor Localization",
+      "authors": [
+        "Hengyi Gan",
+        "Mohd Haris Md Khir",
+        "Gunawan Witjaksono",
+        "Nordin Ramli"
+      ],
+      "year": 2018,
+      "venue": "IEEE Access",
+      "citations": 29,
+      "doi": "https://doi.org/10.1109/access.2018.2890111",
+      "abstract": "In this paper, a novel hybrid model based on the constraint online sequential extreme learning machine (COSELM) classifier with adaptive weighted sparse representation classification (WSRC) and k nearest neighbor (KNN) is proposed for the WiFi-based indoor positioning system. It is referred to as A Fast-Accurate-Reliable Localization System (AFARLS). AFARLS exploits the speed advantage of COSELM to reduce the computational cost, and the accuracy advantage of WSRC to enhance the classification performance, by utilizing KNN as the adaptive sub-dictionary selection strategy. The understanding is that the original extreme learning machine (ELM) is less robust against noise, while sparse representation classification (SRC) and KNN suffer a high computational burden when using the over-complete dictionary. AFARLS unifies their complementary strengths to resolve each other’s limitation. In large-scale multi-building and multi-floor environments, AFARLS estimates a location that considers the building, floor, and position (longitude and latitude) in a hierarchical and sequential approach according to a discriminative criterion to the COSELM output. If the classifier result is unreliable, AFARLS uses KNN to achieve the best relevant sub-dictionary. The sub-dictionary is fed to WSRC to re-estimate the building and the floor, while the position is predicted by the ELM regressor. AFARLS has been verified on two publicly available datasets, the <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">EU Zenodo</i> and the <italic xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">UJIIndoorLoc</i> . The experimental results demonstrate that AFARLS outperforms the state-of-the-art algorithms on the former dataset, and it provides near state-of-the-art performance on the latter dataset. When the size of the dataset increases remarkably, AFARLS shows that it can maintain its real-time high-accuracy performance.",
+      "url": "https://openalex.org/W2907013599"
+    },
+    {
+      "title": "Improving Route Selections in ZigBee Wireless Sensor Networks",
+      "authors": [
+        "Srikar Meka",
+        "Benedito J. B. Fonseca"
+      ],
+      "year": 2019,
+      "venue": "Sensors",
+      "citations": 27,
+      "doi": "https://doi.org/10.3390/s20010164",
+      "abstract": "The ZigBee wireless communication specifications forecast the use of multihop routes between nodes and define that nodes select their routes based on their costs. The specifications define how to compute a route cost from the probability of successfully transmitting on each of the routes' links; and it is recommended that such probabilities be obtained by counting received link status messages or averaging link quality indicators from received packets. In this paper, we study the performance of these two recommended procedures, show that they can lead to degraded route selections, and propose a procedure that can improve route selections without modifications to the ZigBee protocol or frame formats. Our procedure estimates the probability of successful transmission on each link, based on information from the medium access layer during unicast packet transmissions, and includes a modification into how ZigBee nodes treat routing messages internally in order to reduce variations in the link cost estimates. Focusing on a home environment with one or two hops, our simulation results show that, in several scenarios, our procedure performs better than either of the two procedures recommended in the ZigBee specifications.",
+      "url": "https://openalex.org/W2997510199"
+    },
+    {
+      "title": "Wi-Fi Channel Bonding: An All-Channel System and Experimental Study From Urban Hotspots to a Sold-Out Stadium",
+      "authors": [
+        "Sergio Barrachina‐Muñoz",
+        "Boris Bellalta",
+        "Edward W. Knightly"
+      ],
+      "year": 2021,
+      "venue": "IEEE/ACM Transactions on Networking",
+      "citations": 27,
+      "doi": "https://doi.org/10.1109/tnet.2021.3077770",
+      "abstract": "In this paper, we present WACA, the first system to simultaneously measure all 24 Wi-Fi channels that allow channel bonding at 5 GHz with microsecond scale granularity. With WACA, we perform a first-of-its-kind measurement study in areas including urban hotspots, residential neighborhoods, universities, and even a game in Futbol Club Barcelona’s Camp Nou, a sold-out stadium with 98,000 fans and 12,000 simultaneous Wi-Fi connections. We study channel bonding in this environment, and our experimental findings reveal the underpinning factors controlling throughput gain, including channel bonding policy and spectrum occupancy statistics. We then show the significance of the gathered dataset for finding insights, which would not be possible otherwise, given that simple channel occupancy models severely underestimate the available gains. Likewise, we characterize the risks of channel bonding due to other BSS’s, including their missed transmission opportunities and potential collisions due to imperfect sensing of bonded transmissions. We explore 802.11ax which imposes constraints on bonded channels to avoid fragmentation and defines different modes that can trade implementation complexity for throughput. Lastly, we show that the stadium, while seemingly too highly occupied for channel bonding gains, has transient gaps yielding impressive gains.",
+      "url": "https://openalex.org/W3161945723"
+    },
+    {
+      "title": "Design and Implementation of a Multi-Hop Real-Time LoRa Protocol for Dynamic LoRa Networks",
+      "authors": [
+        "Huu Phi Tran",
+        "Woo-Sung Jung",
+        "Dae-Seung Yoo",
+        "Hoon Oh"
+      ],
+      "year": 2022,
+      "venue": "Sensors",
+      "citations": 26,
+      "doi": "https://doi.org/10.3390/s22093518",
+      "abstract": "Recently, LoRa (Long Range) technology has been drawing attention in various applications due to its long communication range and high link reliability. However, in industrial environments, these advantages are often compromised by factors such as node mobility, signal attenuation due to various obstacles, and link instability due to external signal interference. In this paper, we propose a new multi-hop LoRa protocol that can provide high reliability for data transmission by overcoming those factors in dynamic LoRa networks. This study extends the previously proposed two-hop real-time LoRa (Two-Hop RT-LoRa) protocol to address technical aspects of dynamic multi-hop networks, such as automatic configuration of multi-hop LoRa networks, dynamic topology management, and updating of real-time slot schedules. It is shown by simulation that the proposed protocol achieves high reliability of over 97% for mobile nodes and generates low control overhead in topology management and schedule updates. The protocol was also evaluated in various campus deployment scenarios. According to experiments, it could achieve high packet delivery rates of over 97% and 95%, respectively, for 1-hop nodes and 2-hop nodes against node mobility.",
+      "url": "https://openalex.org/W4229058165"
+    },
+    {
+      "title": "Survey on Wireless Indoor Positioning Systems",
+      "authors": [
+        "Wisam H. Ali",
+        "Amnah Abas Kareem",
+        "Manal Jasim"
+      ],
+      "year": 2019,
+      "venue": "Cihan University-Erbil Scientific Journal",
+      "citations": 25,
+      "doi": "https://doi.org/10.24086/cuesj.v3n2y2019.pp42-47",
+      "abstract": "Indoor positioning has finally testified a rise in interest, thanks to the big selection of services it is provided, and ubiquitous connectivity. There are currently many systems that can locate a person, be it wireless or by mobile phone and the most common systems in outdoor environments is the GPS, the most common in indoor environments is Wi-Fi positioning technique positioning. The improvement of positioning systems in indoor environments is desirable in many areas as it provides important facilities and services, such as airports, universities, factories, hospitals, and shopping malls. This paper provides an overview of the existing methods based on wireless indoor positioning technique. We focus in this survey on the strengths of these systems mentioned in the literature discordant with the present surveys; we also assess to additionally measure various systems from the scene of energy efficiency, price, and following accuracy instead of comparing the technologies, we also to additionally discuss residual challenges to correct indoor positioning.",
+      "url": "https://openalex.org/W2971276053"
+    },
+    {
+      "title": "Federated Reinforcement Learning for Uplink Centric Broadband Communication Optimization over Unlicensed Spectrum",
+      "authors": [
+        "Hui Zhou",
+        "Yansha Deng"
+      ],
+      "year": "2024",
+      "venue": "arXiv Preprint",
+      "citations": 0,
+      "doi": "",
+      "abstract": "To provide Uplink Centric Broadband Communication (UCBC), New Radio Unlicensed (NR-U) network has been standardized to exploit the unlicensed spectrum using Listen Before Talk (LBT) scheme to fairly coexist with the incumbent Wireless Fidelity (WiFi) network. Existing access schemes over unlicensed spectrum are required to perform Clear Channel Assessment (CCA) before transmissions, where fixed Energy Detection (ED) thresholds are adopted to identify the channel as idle or busy. However, fixed ED thresholds setting prevents devices from accessing the channel effectively and efficiently, which leads to the hidden node (HN) and exposed node (EN) problems. In this paper, we first develop a centralized double Deep Q-Network (DDQN) algorithm to optimize the uplink system throughput, where the agent is deployed at the central server to dynamically adjust the ED thresholds for NR-U and WiFi networks. Considering that heterogeneous NR-U and WiFi networks, in practice, cannot share the raw data with the central server directly, we then develop a federated DDQN algorithm, where two agents are deployed in the NR-U and WiFi networks, respectively. Our results have shown that the uplink system throughput increases by over 100%, where cell throughput of NR-U network rises by 150%, and cell throughput of WiFi network decreases by 30%. To guarantee the cell throughput of WiFi network, we redesign the reward function to punish the agent when the cell throughput of WiFi network is below the threshold, and our revised design can still provide over 50% uplink system throughput gain.",
+      "url": "http://arxiv.org/abs/2402.11478v1"
+    }
+  ]
+}

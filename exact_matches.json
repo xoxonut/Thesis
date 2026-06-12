@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Detecting Hidden and Exposed Terminal Problems in Densely Deployed Wireless Networks",
+    "authors": [
+      "Koichi Nishide",
+      "Hajime Kubo",
+      "Ryoichi Shinkuma",
+      "Tomohiro Takahashi"
+    ],
+    "year": 2012,
+    "venue": "IEEE Transactions on Wireless Communications",
+    "citations": 40,
+    "doi": "https://doi.org/10.1109/twc.2012.092712.100868",
+    "abstract": "In this paper, we discuss problems in densely deployed wireless networks. Particularly, we focus on wireless local area networks (WLANs) because they have enabled us to provide seamless and high capacity wireless access easily and inexpensively. However, recently, channel interference between different services has become a serious problem because access points (APs) of WLANs are located too densely. In the carrier sense multiple access with collision avoidance used in WLANs, the hidden terminal (HT) and the exposed terminal (ET) problems occur depending on the distance between stations and the carrier sensing range. In the higher dense deployment mentioned above, the HT and ET problems occur complicatedly. Therefore, we propose an AP cooperation system that detects the HT and ET problems between stations (STAs). In our system, APs are operated with time synchronization and obtain the information of connected STAs from received frames. The HT and ET problems are identified from the integration of the information obtained at different APs. The effectiveness is verified by simulations.",
+    "url": "https://openalex.org/W1966896253"
+  },
+  {
+    "title": "Detection and Localization of Hidden IoT Devices in Unknown Environments Based on Channel Fingerprints",
+    "authors": [
+      "Xiangyu Ju",
+      "Yitang Chen",
+      "Zhiqiang Li",
+      "Biao Han"
+    ],
+    "year": 2025,
+    "venue": "Big Data and Cognitive Computing",
+    "citations": 0,
+    "doi": "https://doi.org/10.3390/bdcc9080214",
+    "abstract": "In recent years, hidden IoT monitoring devices installed indoors have raised significant concerns about privacy breaches and other security threats. To address the challenges of detecting such devices, low positioning accuracy, and lengthy detection times, this paper proposes a hidden device detection and localization system that operates on the Android platform. This technology utilizes the Received Signal Strength Indication (RSSI) signals received by the detection terminal device to achieve the detection, classification, and localization of hidden IoT devices in unfamiliar environments. This technology integrates three key designs: (1) actively capturing the RSSI sequence of hidden devices by sending RTS frames and receiving CTS frames, which is used to generate device channel fingerprints and estimate the distance between hidden devices and detection terminals; (2) training an RSSI-based ranging model using the XGBoost algorithm, followed by multi-point localization for accurate positioning; (3) implementing augmented reality-based visual localization to support handheld detection terminals. This prototype system successfully achieves active data sniffing based on RTS/CTS and terminal localization based on the RSSI-based ranging model, effectively reducing signal acquisition time and improving localization accuracy. Real-world experiments show that the system can detect and locate hidden devices in unfamiliar environments, achieving an accuracy of 98.1% in classifying device types. The time required for detection and localization is approximately one-sixth of existing methods, with system runtime maintained within 5 min. The localization error is 0.77 m, a 48.7% improvement over existing methods with an average error of 1.5 m.",
+    "url": "https://openalex.org/W4413342600"
+  },
+  {
+    "title": "A novel hidden station detection mechanism in IEEE 802.11 WLAN",
+    "authors": [
+      "Youngsoo Kim",
+      "Jeonggyun Yu",
+      "Sunghyun Choi",
+      "Kyunghun Jang"
+    ],
+    "year": 2006,
+    "venue": "IEEE Communications Letters",
+    "citations": 30,
+    "doi": "https://doi.org/10.1109/lcomm.2006.1665126",
+    "abstract": "The popular IEEE 802.11 wireless local area network (WLAN) is based on a carrier sense multiple access with collision avoidance (CSMA/CA), where a station listens to the medium before transmission in order to avoid collision. If there exist stations which can not hear each other, i.e., hidden stations, the potential collision probability increases, thus dramatically degrading the network throughput. The RTS/CTS (request-to-send/clear-to-send) frame exchange is a solution for the hidden station problem, but the RTS/CTS exchange itself consumes the network resources by transmitting the control frames. In order to maximize the network throughput, we need to use the RTS/CTS exchange adaptively only when hidden stations exist in the network. In this letter, a simple but very effective hidden station detection mechanism is proposed. Once a station detects the hidden stations via the proposed detection mechanism, it can trigger the usage of the RTS/CTS exchange. The simulation results demonstrate that the proposed mechanism can provide the maximum system throughput performance.",
+    "url": "https://openalex.org/W2118012421"
+  },
+  {
+    "title": "Hidden Terminal Detection in Wide-Area 802.11 Wireless Networks",
+    "authors": [
+      "Scott Raynel"
+    ],
+    "year": 2012,
+    "venue": "Research Commons (University of Waikato)",
+    "citations": 0,
+    "doi": null,
+    "abstract": "The hidden terminal problem is an important issue in wireless networks based on the CSMA medium access control scheme. Hidden terminals pose a complex challenge to network operators trying to identify the underlying cause of performance issues.\\nThis thesis describes new methods for the detection and measurement of the hidden terminal problem in wireless networks based on commodity hardware and software platforms. These new methods allow network operators to identify areas of a network where hidden terminals are likely to exist; detect instances of the hidden terminal problem occurring; and estimate the total impact hidden terminals are having on the performance of the network.\\nA new framework for measurement of wireless networks is described which provides a new approach to wireless measurement on Linux based wireless routers. The new framework is used to implement the methods and they are deployed across an operational commercial wireless network and are shown to be useful.",
+    "url": "https://openalex.org/W2583581725"
+  }
+]

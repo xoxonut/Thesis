@@ -1,0 +1,451 @@
+[
+  {
+    "title": "Effect of hidden terminals on the performance of IEEE 802.11 MAC protocol",
+    "authors": [
+      "Sumit Khurana",
+      "A. Kahol",
+      "Anura P. Jayasumana"
+    ],
+    "year": 2002,
+    "venue": "Unknown Venue",
+    "citations": 111,
+    "doi": "https://doi.org/10.1109/lcn.1998.727642",
+    "abstract": "the hidden terminal problem is unique to wireless networks and as of now there is very limited understanding about its effects on network performance. results are presented from a simulation study of the ieee 802.11 mac protocol when operating in the presence of hidden terminals. we also propose a framework for modeling hidden terminals which can handle complex scenarios of both mobility and static obstructions. our simulations indicate that hidden terminals can have a very detrimental effect on...",
+    "url": "https://openalex.org/W2101793980",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Improving Quality-of-Service in Wireless Sensor Networks by Mitigating “Hidden-Node Collisions”",
+    "authors": [
+      "Anis Koubâa",
+      "Ricardo Severino",
+      "Mário Alves",
+      "Eduardo Tovar"
+    ],
+    "year": 2009,
+    "venue": "IEEE Transactions on Industrial Informatics",
+    "citations": 100,
+    "doi": "https://doi.org/10.1109/tii.2009.2026643",
+    "abstract": "wireless sensor networks (wsns) emerge as underlying infrastructures for new classes of large-scale networked embedded systems. however, wsns system designers must fulfill the quality-of-service (qos) requirements imposed by the applications (and users). very harsh and dynamic physical environments and extremely limited energy/computing/memory/communication node resources are major obstacles for satisfying qos metrics such as reliability, timeliness, and system lifetime. the limited communicatio...",
+    "url": "https://openalex.org/W2123913433",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "IEEE 802.11a Throughput Performance with Hidden Nodes",
+    "authors": [
+      "Özgür Ekici",
+      "Abbas Yongaçoğlu"
+    ],
+    "year": 2008,
+    "venue": "IEEE Communications Letters",
+    "citations": 79,
+    "doi": "https://doi.org/10.1109/lcomm.2008.080209",
+    "abstract": "analytic performance of ieee 802.11 distributed coordination function that takes into account hidden node problem and unsaturated traffic condition is presented for symmetric networks. this enables us to estimate the performance of practical wireless local area networks more accurately. it is shown that the presence of hidden nodes barely affects the network performance in low traffic conditions, but it causes 33% performance loss in moderate traffic scenarios. analytical results presented in th...",
+    "url": "https://openalex.org/W2115286596",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Hidden Problems with the Hidden Node Problem",
+    "authors": [
+      "Ashikur Rahman",
+      "Paweł Gburzyński"
+    ],
+    "year": 2006,
+    "venue": "Unknown Venue",
+    "citations": 72,
+    "doi": "https://doi.org/10.1109/bsc.2006.1644620",
+    "abstract": "we discuss a few problems introduced by the rts/cts mechanism of collision avoidance and focus on the virtual jamming problem, which allows a malicious node to effectively jam a large fragment of a wireless network at a minimum expense of power. we propose a solution to this problem and provide experimental data illustrating the impact of virtual jamming and the effectiveness of our proposed solution",
+    "url": "https://openalex.org/W2136419300",
+    "has_rssi": true,
+    "has_active": true
+  },
+  {
+    "title": "Grouping Strategy for Solving Hidden Node Problem in IEEE 802.15.4 LR-WPAN",
+    "authors": [
+      "Lain-Jinn Hwang",
+      "Shiann‐Tsong Sheu",
+      "Yun-Yen Shih",
+      "Yen-Chieh Cheng"
+    ],
+    "year": 2006,
+    "venue": "Unknown Venue",
+    "citations": 70,
+    "doi": "https://doi.org/10.1109/wicon.2005.16",
+    "abstract": "the medium access control (mac) protocol defined in ieee 802.15.4 standard is able to achieve low-power transmissions in low-rate and short-distance wireless personal area networks (wpans). the modified csma/ca protocol used to minimize power consumption does not have the hidden-node protection mechanism, such as rst/cts mechanism, for the sake of reducing the control overheads. referring to previous research results, which proved that the probability of any two nodes in infrastructure network u...",
+    "url": "https://openalex.org/W1613421795",
+    "has_rssi": true,
+    "has_active": true
+  },
+  {
+    "title": "Balancing the hidden and exposed node problems with power control in CSMA/CA-based wireless networks",
+    "authors": [
+      "Yihong Zhou",
+      "Scott Nettles"
+    ],
+    "year": 2005,
+    "venue": "Unknown Venue",
+    "citations": 66,
+    "doi": "https://doi.org/10.1109/wcnc.2005.1424590",
+    "abstract": "media access control (mac) mechanism design is a key problem in wireless networking. one problem is hidden nodes, which are allowed to transmit, but which interfere with a receiver causing a collision. another problem is exposed nodes, which are not allowed to transmit although they would not interfere, thus limiting spatial reuse. mac designs, like ieee 802.11, try to solve both of these problems, but are not wholly successful. other mac designs attempt to control the transmit power, both to lo...",
+    "url": "https://openalex.org/W2105496580",
+    "has_rssi": true,
+    "has_active": false
+  },
+  {
+    "title": "Performance evaluation of distributed co-ordination function for IEEE 802.11 wireless LAN protocol in presence of mobile and hidden terminals",
+    "authors": [
+      "Sumit Khurana",
+      "A. Kahol",
+      "Sanjay Kumar Gupta",
+      "Pradip K. Srimani"
+    ],
+    "year": 1999,
+    "venue": "Unknown Venue",
+    "citations": 52,
+    "doi": "https://doi.org/10.1109/mascot.1999.805038",
+    "abstract": "this paper investigates the performance of ieee 802.11 wireless local area network (wlan) protocol's distributed coordination function (dcf) in the presence of mobile and hidden terminals. in order to study the joint effect of hidden terminals and user mobility on the performance of ieee 802.11 dcf, we extend tobagi and kleinrock's (1975) hearing graph framework to model hidden terminals in a static environment. we derive a combined mobility and hidden terminal model using a markov chain from th...",
+    "url": "https://openalex.org/W1905415749",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Hidden-Node Problem in Full-Duplex Enabled CSMA Networks",
+    "authors": [
+      "Shengbo Liu",
+      "Liqun Fu",
+      "Wei Xie"
+    ],
+    "year": 2019,
+    "venue": "IEEE Transactions on Mobile Computing",
+    "citations": 47,
+    "doi": "https://doi.org/10.1109/tmc.2019.2895034",
+    "abstract": "the in-band full-duplexing is a promising technique to boost wireless network throughput by allowing a node to transmit and receive simultaneously. this paper provides a comprehensive investigation on the hidden-node problem that arises in the full-duplex (fd) enabled carrier-sensing multiple-access (csma) networks. in particular, we first provide the fundamental conditions that guarantee successful receptions for all the fd transmission cases, and propose an ellipse interference model and an el...",
+    "url": "https://openalex.org/W2913689366",
+    "has_rssi": true,
+    "has_active": false
+  },
+  {
+    "title": "Analyzing the throughput of IEEE 802.11 DCF scheme with hidden nodes",
+    "authors": [
+      "Ting‐Chao Hou",
+      "Ling-Fan Tsao",
+      "Hsin-Chiao Liu"
+    ],
+    "year": 2003,
+    "venue": "Unknown Venue",
+    "citations": 46,
+    "doi": "https://doi.org/10.1109/vetecf.2003.1286135",
+    "abstract": "in this paper, we analyze the throughput of the ieee 802.11 dcf scheme using the rts/cts access mechanism in multi-hop ad hoc networks. the mathematical analysis is much more involved than that in a single-hop network due to the hidden node problem. a more realistic carrier sense range is considered in this paper. the impact of parameters, such as the number of stations, the packet size, and the carrier sense range, is also considered. simulation results show good agreement with the analytical r...",
+    "url": "https://openalex.org/W2163465777",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Analysis of the hidden terminal effect in multi-rate IEEE 802.11b networks",
+    "authors": [
+      "Mauro Borgo",
+      "Andréa Zanella",
+      "P. Bisaglia",
+      "Simone Merlin"
+    ],
+    "year": 2004,
+    "venue": "Research Padua  Archive (University of Padua)",
+    "citations": 43,
+    "doi": null,
+    "abstract": "in this paper, we investigate the effect of hidden terminals and weak interferers in a multi-rate ieee 802.11b system. we assume an ad-hoc network configuration, so that all the nodes operate on the same portion of the ism frequency band. focusing on a pair of target nodes, we model the signal to noise and interference ratio (snir) at the intended receiver, as a function of the distance from the transmitter and from the potential interfering nodes. hence, we derive the average nominal goodput in...",
+    "url": "https://openalex.org/W2340044831",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Evaluation of the Effects of Hidden Node Problems in IEEE 802.15.7 Uplink Performance",
+    "authors": [
+      "Carlos Ley-Bosch",
+      "Alonso González",
+      "David Sánchez-Rodríguez",
+      "Carlos Ramírez-Casañas"
+    ],
+    "year": 2016,
+    "venue": "Sensors",
+    "citations": 40,
+    "doi": "https://doi.org/10.3390/s16020216",
+    "abstract": "in the last few years, the increasing use of leds in illumination systems has been conducted due to the emergence of visible light communication (vlc) technologies, in which data communication is performed by transmitting through the visible band of the electromagnetic spectrum. in 2011, the institute of electrical and electronics engineers (ieee) published the ieee 802.15.7 standard for wireless personal area networks based on vlc. due to limitations in the coverage of the transmitted signal, w...",
+    "url": "https://openalex.org/W2261973987",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Performance Degradation of IEEE 802.15.4 Slotted CSMA/CA due to Hidden Nodes",
+    "authors": [
+      "Manjukumar Harthikote-Matha",
+      "Tarun Banka",
+      "Anura P. Jayasumana"
+    ],
+    "year": 2007,
+    "venue": "Unknown Venue",
+    "citations": 40,
+    "doi": "https://doi.org/10.1109/lcn.2007.134",
+    "abstract": "as sensor nodes are subject to strict power limitations and often deployed in harsh environments, there is significant potential for a node to be hidden from another node. the impact of hidden nodes on performance of the ieee 802.15.4 low-rate wireless personal area network protocol is evaluated. at lower tx power, as a result of hidden nodes, there are more collisions in the network increasing the cost of packet delivery. the simulation results indicate that there exists an optimum transmission...",
+    "url": "https://openalex.org/W2119521447",
+    "has_rssi": true,
+    "has_active": false
+  },
+  {
+    "title": "Detecting Hidden and Exposed Terminal Problems in Densely Deployed Wireless Networks",
+    "authors": [
+      "Koichi Nishide",
+      "Hajime Kubo",
+      "Ryoichi Shinkuma",
+      "Tomohiro Takahashi"
+    ],
+    "year": 2012,
+    "venue": "IEEE Transactions on Wireless Communications",
+    "citations": 40,
+    "doi": "https://doi.org/10.1109/twc.2012.092712.100868",
+    "abstract": "in this paper, we discuss problems in densely deployed wireless networks. particularly, we focus on wireless local area networks (wlans) because they have enabled us to provide seamless and high capacity wireless access easily and inexpensively. however, recently, channel interference between different services has become a serious problem because access points (aps) of wlans are located too densely. in the carrier sense multiple access with collision avoidance used in wlans, the hidden terminal...",
+    "url": "https://openalex.org/W1966896253",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Performance Analysis of IEEE 802.11ac DCF with Hidden Nodes",
+    "authors": [
+      "Zheng Chang",
+      "Olli Alanen",
+      "Toni Huovinen",
+      "Timo Nihtilä",
+      "Eng Hwee Ong",
+      "Jarkko Kneckt",
+      "Tapani Ristaniemi"
+    ],
+    "year": 2012,
+    "venue": "Unknown Venue",
+    "citations": 35,
+    "doi": "https://doi.org/10.1109/vetecs.2012.6240054",
+    "abstract": "recently, the ieee 802.11 standard based wireless local area networks (wlan) have become more popular and are widely deployed. it is anticipated that wlan will play an important rule in the future wireless communication systems in order to provide several gigabits data rate. ieee 802.11ac is one of the ongoing wlan standard aiming to support very high throughput (vht) with data rate of up to 6 gbps below the 6 ghz band. in the development of ieee 802.11ac standard, several new physical layer (ph...",
+    "url": "https://openalex.org/W2171156807",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Complete single-channel solutions to hidden terminal problems in wireless LANs",
+    "authors": [
+      "Chane L. Fullmer",
+      "J.J. Garcia‐Luna‐Aceves"
+    ],
+    "year": 2002,
+    "venue": "Unknown Venue",
+    "citations": 35,
+    "doi": "https://doi.org/10.1109/icc.1997.609856",
+    "abstract": "we specify and analyze two variants of floor acquisition multiple access protocols for csma single-channel wireless lans (wlans) with hidden terminals. one variant assumes that all stations have the same functionality, and the other assumes base station control. these are the first protocols that solve the hidden-terminal problems of single-channel wlans. stations use carrier sensing and a three way handshake, just as advocated in maca, ieee 802.11 and fama-ntr introduced in the past. however, t...",
+    "url": "https://openalex.org/W2103033189",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Hidden terminal jamming problems in IEEE 802.11 mobile ad hoc networks",
+    "authors": [
+      "C. Ware",
+      "Tadeusz A. Wysocki",
+      "J.F. Chicharo"
+    ],
+    "year": 2002,
+    "venue": "Unknown Venue",
+    "citations": 34,
+    "doi": "https://doi.org/10.1109/icc.2001.936314",
+    "abstract": "this paper addresses experimental measurements from an ieee 802.11 ad hoc network testbed, which indicate a strong signal strength dependence in the ability of a hidden terminal to gain access to the radio channel. we present analytical results investigating the 'hidden terminal jamming' ability of the ieee 802.11 dsss physical layer. results indicate that in a hidden terminal topology, the presence of an interfering transmission with a signal strength marginally greater than the transmission cu...",
+    "url": "https://openalex.org/W1591335953",
+    "has_rssi": true,
+    "has_active": false
+  },
+  {
+    "title": "Hidden-Node Detection in IEEE 802.11n Wireless LANs",
+    "authors": [
+      "Minho Kim",
+      "Chong‐Ho Choi"
+    ],
+    "year": 2013,
+    "venue": "IEEE Transactions on Vehicular Technology",
+    "citations": 30,
+    "doi": "https://doi.org/10.1109/tvt.2013.2246594",
+    "abstract": "the demand for wireless local area networks (wlans) has drastically increased due to the prevalence of mobile devices, such as smartphones and tablet personal computers. in such an environment, a large number of basic service sets (bsss) can overlap with each other, causing the well-known hidden-node problem to occur more frequently. solutions to alleviate the hidden-node problem, such as the request-to-send/clear-to-send (rts/cts) exchange, often contain protocol overhead that may lead to throu...",
+    "url": "https://openalex.org/W1981540651",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Third Eye: Context-Aware Detection for Hidden Terminal Emulation Attacks in Cognitive Radio-Enabled IoT Networks",
+    "authors": [
+      "Moinul Hossain",
+      "Jiang Xie"
+    ],
+    "year": 2020,
+    "venue": "IEEE Transactions on Cognitive Communications and Networking",
+    "citations": 30,
+    "doi": "https://doi.org/10.1109/tccn.2020.2968324",
+    "abstract": "recently, the internet of things (iot) technology has been drawing increasing attention because it has a great potential to positively impact human life in a broad range of applications. nonetheless, the dense deployment of multiple co-located iot networks that may follow different wireless protocols will essentially bring new network vulnerabilities. in this paper, we introduce a novel attack scenario in co-located cognitive radio (cr) enabled iot networks, where a reactive attacker can emulate...",
+    "url": "https://openalex.org/W3002482178",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "A directional hidden terminal problem in ad hoc network MAC protocols with smart antennas and its solutions",
+    "authors": [
+      "M. Sekido",
+      "Masanori Takata",
+      "Masaki Bandai",
+      "Takashi Watanabe"
+    ],
+    "year": 2005,
+    "venue": "GLOBECOM '05. IEEE Global Telecommunications Conference, 2005.",
+    "citations": 27,
+    "doi": "https://doi.org/10.1109/glocom.2005.1578227",
+    "abstract": "smart antennas are expected to enhance scalability in ad hoc networks. this paper describes the evaluations of three directional mac protocols, dmac, mmac, and swamp, as well as the ieee 802.11 dcf omni-directional protocol in a multi-hop transmission environment. these evaluations address the problem that performance strongly depends on the route topology between the source and destination, referred to as the directional hidden terminal problem. after analyzing this problem, we propose three ma...",
+    "url": "https://openalex.org/W2101770122",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "WSN02-1: Analysis of IEEE 802.11 DCF with Hidden Terminals",
+    "authors": [
+      "Haitao Wu",
+      "Fan Zhu",
+      "Qian Zhang",
+      "Zhisheng Niu"
+    ],
+    "year": 2006,
+    "venue": "Globecom",
+    "citations": 27,
+    "doi": "https://doi.org/10.1109/glocom.2006.931",
+    "abstract": "the mandatory access mode in ieee 802.11 mac is distributed coordination function (dcf), which provides both basic access and rts/cts(request-to-send/clear-to-send) access. previous modeling work for dcf only provides analysis when all the nodes in wlan lie in the carrier sense range of each other. however, in real deployment of wlan, all the stations are in the communication range of access point (ap) but not necessarily with respect to each other, which results in hidden terminals(ht) and degr...",
+    "url": "https://openalex.org/W2057408902",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Wireless LAN: study of hidden-terminal effect and multimedia support",
+    "authors": [
+      "W.M. Moh",
+      "Dongming Yao",
+      "Kia Makki"
+    ],
+    "year": 2002,
+    "venue": "Unknown Venue",
+    "citations": 26,
+    "doi": "https://doi.org/10.1109/icccn.1998.998803",
+    "abstract": "wireless local area networks (wlan) are expected to be a major growth factor for communication networks in the up-coming years. they are expected to provide a transparent connection for mobile hosts to communicate with other mobile hosts, and wired hosts on the wired lan and broadband networks. two wlan projects have undergone the standardization process: the ieee 802.11 and the etsi hiperlan. most of the existing study of the two mac protocols focused on simulation results, and none of them has...",
+    "url": "https://openalex.org/W2100883918",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Analysis of IEEE 802.11 DCF with hidden terminals",
+    "authors": [
+      "Haitao Wu",
+      "Fan Zhu",
+      "Qian Zhang",
+      "Zhisheng Niu"
+    ],
+    "year": 2016,
+    "venue": "Unknown Venue",
+    "citations": 26,
+    "doi": null,
+    "abstract": "abstract—the mandatory access mode in ieee 802.11 mac is distributed coordination function (dcf), which provides both basic access and rts/cts(request-to-send/clear-to-send) access. previous modeling work for dcf only provides analysis when all the nodes in wlan lie in the carrier sense range of each other. however, in real deployment of wlan, all the stations are in the communication range of access point (ap) but not necessarily with respect to each other, which results in hidden terminals(ht)...",
+    "url": "https://openalex.org/W2105161201",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Solving the hidden and exposed terminal problems using directional-antenna based MAC protocol for wireless sensor networks",
+    "authors": [
+      "Ketema Adere",
+      "Garimella Rama Murthy"
+    ],
+    "year": 2010,
+    "venue": "Unknown Venue",
+    "citations": 25,
+    "doi": "https://doi.org/10.1109/wocn.2010.5587352",
+    "abstract": "a critical design issue for wireless sensor networks (wsns) is the development of medium access control (mac) protocols that efficiently reduce power consumption. wsns sensor nodes are generally powered by batteries which provide a limited amount of energy, and it is often difficult to recharge or replace batteries. therefore power aware and energy efficient mac protocols at each layer of the communications are very essential for wireless sensor networks. fairness to both the usage of a channel ...",
+    "url": "https://openalex.org/W2102065377",
+    "has_rssi": true,
+    "has_active": true
+  },
+  {
+    "title": "RSS-Based Grouping Strategy for Avoiding Hidden Terminals with GS-DCF MAC Protocol",
+    "authors": [
+      "Mohammad Ghasemiahmadi",
+      "Yue Li",
+      "Lin Cai"
+    ],
+    "year": 2017,
+    "venue": "Unknown Venue",
+    "citations": 23,
+    "doi": "https://doi.org/10.1109/wcnc.2017.7925778",
+    "abstract": "due to the massive growth in the number of wireless devices and their traffic, the problem of sharing channel access has become much severe in wireless networks. group synchronized distributed coordination function (gs-dcf) was introduced in the ieee 802.11ah standard to group users and give each group a restricted access window (raw) to compete in. however, how to group users remains an open issue which has a great impact on the network performance. in this paper, an rss- based grouping strateg...",
+    "url": "https://openalex.org/W2611983591",
+    "has_rssi": true,
+    "has_active": false
+  },
+  {
+    "title": "The heterogeneous hidden/exposed terminal problem for power-controlled ad hoc MAC protocols and its solutions",
+    "authors": [
+      "Chi‐Hsiang Yeh"
+    ],
+    "year": 2005,
+    "venue": "Unknown Venue",
+    "citations": 23,
+    "doi": "https://doi.org/10.1109/vetecs.2004.1391382",
+    "abstract": "the interference and power control issues are among the most important and urgent problems that have to be solved for ad hoc networks to be efficient and widely applicable. we identify a number of unique problems in multihop networks. we then propose the interference-aware multiple access (iama) scheme for medium access control (mac) in ad hoc networks and multihop wireless lans. based on detached dialogues, triggered cts, and the object-to-sending (ots) mechanisms, iama is the first and only di...",
+    "url": "https://openalex.org/W2141717502",
+    "has_rssi": true,
+    "has_active": true
+  },
+  {
+    "title": "Throughput of a wireless LAN access point in presence of natural hidden terminals and capture effects",
+    "authors": [
+      "A. Zahedi",
+      "Kaveh Pahlavan"
+    ],
+    "year": 2002,
+    "venue": "Unknown Venue",
+    "citations": 21,
+    "doi": "https://doi.org/10.1109/pimrc.1996.567424",
+    "abstract": "in a wireless lan, even if the coverage of the access point (ap) and the mobile terminals are the same, the hidden terminal problem cannot be avoided. if the ap and all the mobile terminals have the same coverage with a radius r there will always be terminals in the coverage area of the ap which are hidden to one another. this paper introduces this phenomenon, that we refer to as the natural hidden terminal problem, and analyzes the throughput of the ap under these circumstances with various con...",
+    "url": "https://openalex.org/W2158474486",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Empirical analysis of the hidden terminal problem in Wireless Underground Sensor Networks",
+    "authors": [
+      "Xin Dong",
+      "Mehmet C. Vuran"
+    ],
+    "year": 2012,
+    "venue": "Unknown Venue",
+    "citations": 20,
+    "doi": "https://doi.org/10.1109/icwcuca.2012.6402477",
+    "abstract": "wireless underground sensor networks (wusns) can be widely adopted to monitor the environment in agricultural, security and ecological applications. in most applications, besides underground sensor motes, aboveground motes are deployed to gather information. however, due to the different communication ranges of the channels, hidden terminal problem occurs when multiple underground motes send data to the aboveground mote. in this paper, experiments are conducted to reveal this problem in wusns em...",
+    "url": "https://openalex.org/W2546409048",
+    "has_rssi": false,
+    "has_active": true
+  },
+  {
+    "title": "Natural hidden terminal and the performance of the wireless LANs",
+    "authors": [
+      "A. Zahedi",
+      "Kaveh Pahlavan"
+    ],
+    "year": 2002,
+    "venue": "Proceedings of ICUPC 97 - 6th International Conference on Universal Personal Communications",
+    "citations": 19,
+    "doi": "https://doi.org/10.1109/icupc.1997.627299",
+    "abstract": "if the access point (ap) and all the mobile terminals have the same coverage, there will always be terminals in the coverage area of the ap which are hidden to one another. this phenomenon is referred to as the natural hidden terminal problem. we analyze the impact of the natural hidden terminals on the throughput of a wireless lan consisting of mobile terminals distributed around an ap. the analysis includes the effects of the difference in the coverage of the ap and the mobile terminals as wel...",
+    "url": "https://openalex.org/W1504493600",
+    "has_rssi": false,
+    "has_active": true
+  }
+]

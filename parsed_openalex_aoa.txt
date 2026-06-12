@@ -1,0 +1,202 @@
+Total results: 50
+
+[1] From Fingerprinting to Advanced Machine Learning: A Systematic Review of Wi-Fi and BLE-Based Indoor Positioning Systems
+    Year: 2025 | Citations: 5 | Venue: Sensors (journal)
+    DOI: https://doi.org/10.3390/s25226946
+--------------------------------------------------------------------------------
+[2] Efficient Channel Estimation for Rotatable Antenna-Enabled Wireless Communication
+    Year: 2025 | Citations: 5 | Venue: IEEE Wireless Communications Letters (journal)
+    DOI: https://doi.org/10.1109/lwc.2025.3601979
+--------------------------------------------------------------------------------
+[3] Near-Field Localization for Mobile Robots With Single-Antenna Devices
+    Year: 2025 | Citations: 2 | Venue: IEEE Transactions on Communications (journal)
+    DOI: https://doi.org/10.1109/tcomm.2025.3535892
+--------------------------------------------------------------------------------
+[4] CrossNet: Joint Channel Estimation and Localization in Deep Learning Method
+    Year: 2025 | Citations: 3 | Venue: IEEE Communications Letters (journal)
+    DOI: https://doi.org/10.1109/lcomm.2025.3543579
+--------------------------------------------------------------------------------
+[5] ISAC-Oriented Beamforming Feedback Design and Optimization for WiFi Systems
+    Year: 2025 | Citations: 4 | Venue: IEEE Internet of Things Journal (journal)
+    DOI: https://doi.org/10.1109/jiot.2025.3545946
+--------------------------------------------------------------------------------
+[6] 5G High-Precision Positioning in GNSS-Denied Environments Using a Positional Encoding-Enhanced Deep Residual Network
+    Year: 2025 | Citations: 2 | Venue: Sensors (journal)
+    DOI: https://doi.org/10.3390/s25175578
+--------------------------------------------------------------------------------
+[7] RF-3DGS: Wireless Channel Modeling With Radio Radiance Field and 3D Gaussian Splatting
+    Year: 2026 | Citations: 2 | Venue: IEEE Transactions on Wireless Communications (journal)
+    DOI: https://doi.org/10.1109/twc.2026.3652154
+--------------------------------------------------------------------------------
+[8] Exploration of Device-Free Sensing Ability Based on Bluetooth 6.0 Channel Sounding
+    Year: 2025 | Citations: 1 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1145/3714394.3754369
+--------------------------------------------------------------------------------
+[9] Single-Input-Multiple-Output Wi-Fi Radar for Vital Signal Sensing and Device Tracking
+    Year: 2025 | Citations: 1 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/jcs64661.2025.10880631
+--------------------------------------------------------------------------------
+[10] CKMImageNet: A Dataset for AI-Based Channel Knowledge Map Toward Environment-Aware Communication and Sensing
+    Year: 2025 | Citations: 2 | Venue: IEEE Transactions on Communications (journal)
+    DOI: https://doi.org/10.1109/tcomm.2025.3615778
+--------------------------------------------------------------------------------
+[11] AdaptTrack: A Robust Tracking System for Complex Environments Based on WiFi Device Selection Strategy
+    Year: 2025 | Citations: 1 | Venue: Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies (journal)
+    DOI: https://doi.org/10.1145/3749506
+--------------------------------------------------------------------------------
+[12] Harnessing Spatial Diversity for Physical Layer Security Without Adversary Channel Knowledge
+    Year: 2025 | Citations: 1 | Venue: IEEE Transactions on Wireless Communications (journal)
+    DOI: https://doi.org/10.1109/twc.2025.3594733
+--------------------------------------------------------------------------------
+[13] Enhanced Physical Layer Authentication via Robust and Trustworthy Sensing
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.36227/techrxiv.176403878.80301053/v1
+--------------------------------------------------------------------------------
+[14] Next Generation Advanced Transceiver Technologies for 6G and Beyond
+    Year: 2025 | Citations: 75 | Venue: IEEE Journal on Selected Areas in Communications (journal)
+    DOI: https://doi.org/10.1109/jsac.2025.3536557
+--------------------------------------------------------------------------------
+[15] Model-based MIMO Angle of Arrival Estimation for Next Generation Wireless Communication Systems
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/ncc63735.2025.10983128
+--------------------------------------------------------------------------------
+[16] On Estimation of Angles of Arrival in Monostatic ISAC Without Instantaneous Transmit CSI
+    Year: 2025 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: https://doi.org/10.48550/arxiv.2510.08793
+--------------------------------------------------------------------------------
+[17] High-accuracy AoA-based Localization using Hierarchical ML Classifiers in Outdoor Environments
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/globecom59602.2025.11431716
+--------------------------------------------------------------------------------
+[18] Dissimilarity-Based Localization in Wireless Angle-of-Arrival Systems
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/wfcs63373.2025.11077654
+--------------------------------------------------------------------------------
+[19] ISAC Imaging by Channel State Information Using Ray Tracing for Next Generation 6G
+    Year: 2025 | Citations: 25 | Venue: IEEE Journal of Selected Topics in Electromagnetics Antennas and Propagation (journal)
+    DOI: https://doi.org/10.1109/jsteap.2025.3605877
+--------------------------------------------------------------------------------
+[20] Deep Learning-Enhanced Indoor Localization Using Joint AOA-TOA Fingerprints
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/ictc67375.2025.11292407
+--------------------------------------------------------------------------------
+[21] Robotic near-field sensing and localization technology with deep integration of channel information and mobile trajectories
+    Year: 2025 | Citations: 0 | Venue: Scientia Sinica Informationis (journal)
+    DOI: https://doi.org/10.1360/ssi-2024-0301
+--------------------------------------------------------------------------------
+[22] Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty
+    Year: 2026 | Citations: 0 | Venue: arXiv (Cornell University) (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[23] Active Learning for Joint AoA and CSI Acquisition in mmWave Systems
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/ieeeconf67917.2025.11443769
+--------------------------------------------------------------------------------
+[24] ML-Assisted RIS for ISAC Systems: Initial Results in the 6G Study Band
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.23919/eucap63536.2025.10999385
+--------------------------------------------------------------------------------
+[25] Localization of Wi-Fi Access Points Using Channel State Information from a Mobile Embedded Device
+    Year: 2025 | Citations: 0 | Venue: LIBDOC - Westsächsische Hochschule Zwickau (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[26] Rethinking RSSI for WiFi Sensing
+    Year: 2026 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[27] Rethinking RSSI for WiFi Sensing
+    Year: 2026 | Citations: 0 | Venue: Open MIND (repository)
+    DOI: https://doi.org/10.48550/arxiv.2602.14004
+--------------------------------------------------------------------------------
+[28] Hybrid Deep Learning for Angle of Arrival Estimation: A Case Study on the H-WiLD Dataset
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/apcap65837.2025.11210693
+--------------------------------------------------------------------------------
+[29] Channel Knowledge Map-Enabled NLoS ISAC Localization
+    Year: 2026 | Citations: 0 | Venue: arXiv (Cornell University) (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[30] Online Phase Calibration Based on MIMO Antenna Array for AoA Estimation
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/apcap65837.2025.11210725
+--------------------------------------------------------------------------------
+[31] Indoor Localization Using Low-Rank Matrix Recovery and Dynamic Parameter Estimation Algorithm With Commodity Wi-Fi
+    Year: 2025 | Citations: 0 | Venue: IEEE Transactions on Instrumentation and Measurement (journal)
+    DOI: https://doi.org/10.1109/tim.2025.3600699
+--------------------------------------------------------------------------------
+[32] Joint Sensing and Communication for V2V Localization Using Chirp-QPSK Waveform in 6G Networks
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/micc66164.2025.11210973
+--------------------------------------------------------------------------------
+[33] Low Dynamic Range for RIS-Aided Bistatic Integrated Sensing and Communication
+    Year: 2025 | Citations: 49 | Venue: IEEE Journal on Selected Areas in Communications (journal)
+    DOI: https://doi.org/10.1109/jsac.2025.3531533
+--------------------------------------------------------------------------------
+[34] Reduced-Feedback Hybrid Precoding for Wideband mmWave MIMO-OFDM Systems
+    Year: 2026 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: None
+--------------------------------------------------------------------------------
+[35] On Using Spatial and Temporal Features for Robust Multiuser Pose Estimation Based on WiFi CSI
+    Year: 2025 | Citations: 0 | Venue: IEEE Internet of Things Journal (journal)
+    DOI: https://doi.org/10.1109/jiot.2025.3572208
+--------------------------------------------------------------------------------
+[36] Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty
+    Year: 2026 | Citations: 0 | Venue: Open MIND (repository)
+    DOI: https://doi.org/10.48550/arxiv.2603.05062
+--------------------------------------------------------------------------------
+[37] Deep Learning-Driven Friendly Jamming for Secure Multicarrier ISAC Under Channel Uncertainty
+    Year: 2026 | Citations: 0 | Venue: IEEE Transactions on Communications (journal)
+    DOI: https://doi.org/10.1109/tcomm.2026.3675471
+--------------------------------------------------------------------------------
+[38] Physical Embedding for Radio Map Construction
+    Year: 2026 | Citations: 0 | Venue: SSRN Electronic Journal (repository)
+    DOI: https://doi.org/10.2139/ssrn.6245320
+--------------------------------------------------------------------------------
+[39] Perception-assisted superimposed CSI feedback for millimeter wave massive MIMO systems
+    Year: 2025 | Citations: 0 | Venue: Physical Communication (journal)
+    DOI: https://doi.org/10.1016/j.phycom.2025.102864
+--------------------------------------------------------------------------------
+[40] Sensing Parameter Estimation in Uplink Asynchronous Perceptive Mobile Networks
+    Year: 2025 | Citations: 0 | Venue: IEEE Access (journal)
+    DOI: https://doi.org/10.1109/access.2025.3642242
+--------------------------------------------------------------------------------
+[41] AoA estimation based on Wi-Fi CSI and deep learning
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1117/12.3068662
+--------------------------------------------------------------------------------
+[42] Joint localization and channel estimation for terahertz near-field ISAC UM-MIMO systems
+    Year: 2025 | Citations: 0 | Venue: Science China Information Sciences (journal)
+    DOI: https://doi.org/10.1007/s11432-025-4650-4
+--------------------------------------------------------------------------------
+[43] Low-Complexity Sparse and High-Resolution Estimation of CSI and Bistatic Parameters in Beam-Squinted ISAC Systems
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/ants66931.2025.11429923
+--------------------------------------------------------------------------------
+[44] Efficient Channel Estimation for Rotatable Antenna-Enabled Wireless Communication
+    Year: 2025 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: https://doi.org/10.48550/arxiv.2506.20158
+--------------------------------------------------------------------------------
+[45] Water Level Sensing via Communication Signals in a Bi-Static System
+    Year: 2025 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: https://doi.org/10.48550/arxiv.2505.19539
+--------------------------------------------------------------------------------
+[46] Continuous AoA–ToF Maps Feature for Single-Pair Wi-Fi Sensing of Human Activity Recognition
+    Year: 2025 | Citations: 0 | Venue: IEEE Sensors Journal (journal)
+    DOI: https://doi.org/10.1109/jsen.2025.3616769
+--------------------------------------------------------------------------------
+[47] Non-Cooperative Localization via WiFi Traffic Sniffing
+    Year: 2026 | Citations: 0 | Venue: IEEE Transactions on Mobile Computing (journal)
+    DOI: https://doi.org/10.1109/tmc.2026.3676436
+--------------------------------------------------------------------------------
+[48] Channel Knowledge Map-Enabled NLoS ISAC Localization
+    Year: 2026 | Citations: 0 | Venue: arXiv (Cornell University) (repository)
+    DOI: https://doi.org/10.48550/arxiv.2604.06646
+--------------------------------------------------------------------------------
+[49] WiDuo: Dual-Antenna Real-Time Single-Target Passive WiFi Tracking
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/indin64977.2025.11279447
+--------------------------------------------------------------------------------
+[50] Human Activity Recognition Scheme Based on Time-Series Analysis of Multi-Antenna AoA Data
+    Year: 2025 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.1109/icce63647.2025.10930050
+--------------------------------------------------------------------------------

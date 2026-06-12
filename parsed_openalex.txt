@@ -1,0 +1,130 @@
+Total results: 32
+
+[1] Leveraging Online Learning for Domain-Adaptation in Wi-Fi-Based Device-Free Localization
+    Year: 2025 | Citations: 59 | Venue: IEEE Transactions on Mobile Computing (journal)
+    DOI: https://doi.org/10.1109/tmc.2025.3552538
+--------------------------------------------------------------------------------
+[2] A Tutorial on Wi-Fi 8: The Journey to Ultra High Reliability
+    Year: 2025 | Citations: 4 | Venue: Problems of Information Transmission (journal)
+    DOI: https://doi.org/10.1134/s003294602502005x
+--------------------------------------------------------------------------------
+[3] On the importance of clearsky model in short-term solar radiation forecasting
+    Year: 2025 | Citations: 4 | Venue: Solar Energy (journal)
+    DOI: https://doi.org/10.1016/j.solener.2025.113490
+--------------------------------------------------------------------------------
+[4] Non-Orthogonal Superimposed Pilot Transmission for Digital Semantic Communication
+    Year: 2025 | Citations: 1 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.36227/techrxiv.174076834.43459533/v1
+--------------------------------------------------------------------------------
+[5] Resilient DNN for joint sub-band allocation and power control in mobile factory subnetworks
+    Year: 2025 | Citations: 1 | Venue: EURASIP Journal on Wireless Communications and Networking (journal)
+    DOI: https://doi.org/10.1186/s13638-025-02468-7
+--------------------------------------------------------------------------------
+[6] Automate Strategy Finding with LLM in Quant Investment
+    Year: 2025 | Citations: 4 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.18653/v1/2025.findings-emnlp.1005
+--------------------------------------------------------------------------------
+[7] Attention-Aided Channel Prediction for Efficient Resource Management in Industrial IoT Subnetworks
+    Year: 2025 | Citations: 1 | Venue: IEEE Internet of Things Journal (journal)
+    DOI: https://doi.org/10.1109/jiot.2025.3604804
+--------------------------------------------------------------------------------
+[8] Machine Learning and Artificial Intelligence Techniques in Smart Grids Stability Analysis: A Review
+    Year: 2025 | Citations: 20 | Venue: Energies (journal)
+    DOI: https://doi.org/10.3390/en18133431
+--------------------------------------------------------------------------------
+[9] Machine learning and transformers for thyroid carcinoma diagnosis
+    Year: 2025 | Citations: 8 | Venue: Journal of Visual Communication and Image Representation (journal)
+    DOI: https://doi.org/10.1016/j.jvcir.2025.104668
+--------------------------------------------------------------------------------
+[10] Dynamic Spectrum Allocation in the C-Band: An Overview
+    Year: 2025 | Citations: 3 | Venue: Preprints.org (repository)
+    DOI: https://doi.org/10.20944/preprints202508.0287.v1
+--------------------------------------------------------------------------------
+[11] Leveraging 3GPP Features and Optimization Techniques for 5G NR-V2X Resource Allocation: A Survey
+    Year: 2025 | Citations: 3 | Venue: IEEE Open Journal of Intelligent Transportation Systems (journal)
+    DOI: https://doi.org/10.1109/ojits.2025.3584024
+--------------------------------------------------------------------------------
+[12] Predicting Early Neonatal Mortality using Machine Learning Models
+    Year: 2025 | Citations: 1 | Venue: Research Square (repository)
+    DOI: https://doi.org/10.21203/rs.3.rs-7016070/v1
+--------------------------------------------------------------------------------
+[13] Passive localization based on radio tomography images with CNN model utilizing WIFI RSSI
+    Year: 2025 | Citations: 1 | Venue: Scientific Reports (journal)
+    DOI: https://doi.org/10.1038/s41598-025-99694-2
+--------------------------------------------------------------------------------
+[14] Dynamic Spectrum Allocation in the C-Band: An Overview
+    Year: 2025 | Citations: 1 | Venue: Applied Sciences (journal)
+    DOI: https://doi.org/10.3390/app15179762
+--------------------------------------------------------------------------------
+[15] Machine Learning for Underwater Explosion Prediction: A Comprehensive Review of Methods, Challenges and Future Directions
+    Year: 2025 | Citations: 3 | Venue: Archives of Computational Methods in Engineering (journal)
+    DOI: https://doi.org/10.1007/s11831-025-10318-4
+--------------------------------------------------------------------------------
+[16] Widely Linear Augmented Extreme Learning Machine Based Impairments Compensation for Satellite Communications
+    Year: 2025 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: https://doi.org/10.48550/arxiv.2506.14557
+--------------------------------------------------------------------------------
+[17] SCAR: Secure Channel Allocation Randomizer for Internet of Vehicles
+    Year: 2026 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.70593/978-93-7185-561-7_11
+--------------------------------------------------------------------------------
+[18] Adaptability of Statistical and Deep Learning Models to Volatile Market Conditions in Bursa Malaysia Stock Index Forecasting
+    Year: 2025 | Citations: 0 | Venue: Semarak International Journal of Machine Learning (journal)
+    DOI: https://doi.org/10.37934/sijml.4.1.113a
+--------------------------------------------------------------------------------
+[19] WSN Data Gathering Using TSP-Modified RNNs and Horse Herd Algorithm
+    Year: 2025 | Citations: 0 | Venue: Engineering Technology & Applied Science Research (journal)
+    DOI: https://doi.org/10.48084/etasr.11864
+--------------------------------------------------------------------------------
+[20] Liquid Neural Networks: Next-Generation AI for Telecom from First Principles
+    Year: 2025 | Citations: 0 | Venue: ArXiv.org (repository)
+    DOI: https://doi.org/10.48550/arxiv.2504.02352
+--------------------------------------------------------------------------------
+[21] DATASETS APPLIED INTO V2X 6G SYSTEM
+    Year: 2025 | Citations: 0 | Venue: Journal of Engineering Management and Information Technology (journal)
+    DOI: https://doi.org/10.61552/jemit.2025.04.009
+--------------------------------------------------------------------------------
+[22] A Stock Price Prediction Model Based on Neural Networks and Deep Learning
+    Year: 2025 | Citations: 0 | Venue: Theoretical and Natural Science (journal)
+    DOI: https://doi.org/10.54254/2753-8818/2025.ad24410
+--------------------------------------------------------------------------------
+[23] Thyroid disease detection using enhanced extreme learning machine based on drop-connect method
+    Year: 2026 | Citations: 0 | Venue: Scientific Reports (journal)
+    DOI: https://doi.org/10.1038/s41598-026-45993-1
+--------------------------------------------------------------------------------
+[24] A Comparison of Artificial Neural Networks and Exponential Function Methods for Predicting Surface Subsidence in Underground Mining Areas
+    Year: 2025 | Citations: 0 | Venue: Inżynieria Mineralna (journal)
+    DOI: https://doi.org/10.29227/im-2025-02-72
+--------------------------------------------------------------------------------
+[25] None
+    Year: 2025 | Citations: 0 | Venue: BioProcessing Journal (journal)
+    DOI: https://doi.org/10.12665/j24oa-ornek
+--------------------------------------------------------------------------------
+[26] Combining Attention Mechanism with Broad Learning: A Novel Approach to electromagnetic signal Identification
+    Year: 2025 | Citations: 0 | Venue: Research Square (repository)
+    DOI: https://doi.org/10.21203/rs.3.rs-7235988/v1
+--------------------------------------------------------------------------------
+[27] Developing Audio-to-Text Converters with Natural Language Processing for Smart Assistants
+    Year: 2025 | Citations: 0 | Venue: International Journal of Modern Education and Computer Science (journal)
+    DOI: https://doi.org/10.5815/ijmecs.2025.04.05
+--------------------------------------------------------------------------------
+[28] Forecasting Risk Matrices with Economic Policy Uncertainty and Financial Stress: A Machine Learning Approach
+    Year: 2026 | Citations: 0 | Venue: Mathematics (journal)
+    DOI: https://doi.org/10.3390/math14060938
+--------------------------------------------------------------------------------
+[29] A Deep-Learning based Monthly Precipitation Forecasting with Implications for Urban Design and Water Management
+    Year: 2025 | Citations: 0 | Venue: International Journal of Architectural Engineering Technology (journal)
+    DOI: https://doi.org/10.15377/2409-9821.2025.12.15
+--------------------------------------------------------------------------------
+[30] SW-HyDEC: A structure-aware hybrid decomposition and ensemble learning framework for carbon price forecasting
+    Year: 2026 | Citations: 0 | Venue: Neural Computing and Applications (journal)
+    DOI: https://doi.org/10.1007/s00521-026-11982-8
+--------------------------------------------------------------------------------
+[31] Graph network learning for human skeleton modeling: a survey
+    Year: 2025 | Citations: 0 | Venue: Artificial Intelligence Review (journal)
+    DOI: https://doi.org/10.1007/s10462-025-11442-0
+--------------------------------------------------------------------------------
+[32] Towards Self-Adaptive Learning: Continual Learning under Harsh Conditions
+    Year: 2026 | Citations: 0 | Venue: Unknown Venue (Unknown Type)
+    DOI: https://doi.org/10.36227/techrxiv.176948359.91255526/v1
+--------------------------------------------------------------------------------
